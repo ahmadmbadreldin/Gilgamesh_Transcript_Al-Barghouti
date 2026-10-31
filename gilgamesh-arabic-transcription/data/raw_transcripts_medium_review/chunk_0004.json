@@ -1,0 +1,399 @@
+{
+  "audio": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_04_0004545840_0004580680.wav",
+  "metadata": {
+    "index": 4,
+    "start": 4545.84,
+    "end": 4580.68,
+    "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_04_0004545840_0004580680.wav",
+    "comparison_score": 70.95,
+    "small_transcript": "وابن معشر. سلام على الموحود والأهلدونه على صادق أربابه يكذبونه وددت إدادا كاملا أن أكونه هو الوحش أطفال الورا يأمنونه ويصطو على رب السم المتكبر ومال إله إن آلهتي أنا لصوصا عبدناها بقلة عقلنا سأدرك"
+  },
+  "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+  "device": "cpu",
+  "compute_type": "int8",
+  "settings": {
+    "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "beam_size": 5,
+    "vad_filter": false
+  },
+  "detected_language": "ar",
+  "language_probability": 1,
+  "duration": 34.84,
+  "duration_after_vad": 34.84,
+  "elapsed_seconds": 36.73192381858826,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.8,
+      "text": "قُدْتُ إِلَى وَحْشِ الْفَلَى بِقَرَابَةٍ وَأَكْرِمْ بِهِمْ مِنْ مَعْشَرٍ وَابْنِ مَعْشَرِينَ",
+      "avg_logprob": -0.17558701916369135,
+      "compression_ratio": 1.891304347826087,
+      "no_speech_prob": 0.6765652894973755,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.54,
+          "word": " قُدْتُ",
+          "probability": 0.524350248898069
+        },
+        {
+          "start": 0.54,
+          "end": 0.66,
+          "word": " إِلَى",
+          "probability": 0.8622731328010559
+        },
+        {
+          "start": 0.66,
+          "end": 1.12,
+          "word": " وَحْشِ",
+          "probability": 0.8911731143792471
+        },
+        {
+          "start": 1.12,
+          "end": 1.68,
+          "word": " الْفَلَى",
+          "probability": 0.9300237808908735
+        },
+        {
+          "start": 1.68,
+          "end": 2.94,
+          "word": " بِقَرَابَةٍ",
+          "probability": 0.9759801685810089
+        },
+        {
+          "start": 2.94,
+          "end": 3.6,
+          "word": " وَأَكْرِمْ",
+          "probability": 0.9435909450054168
+        },
+        {
+          "start": 3.6,
+          "end": 4.06,
+          "word": " بِهِمْ",
+          "probability": 0.9806559085845947
+        },
+        {
+          "start": 4.06,
+          "end": 4.18,
+          "word": " مِنْ",
+          "probability": 0.9189193099737167
+        },
+        {
+          "start": 4.18,
+          "end": 5.2,
+          "word": " مَعْشَرٍ",
+          "probability": 0.9854387640953064
+        },
+        {
+          "start": 5.2,
+          "end": 5.58,
+          "word": " وَابْنِ",
+          "probability": 0.9240099688371023
+        },
+        {
+          "start": 5.58,
+          "end": 6.8,
+          "word": " مَعْشَرِينَ",
+          "probability": 0.847253468632698
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.8,
+      "end": 23.44,
+      "text": "سلامي على الموحود والأهل دونه، على صادق أربابه يكذبونه، وددت ودادا كاملاً أن أكونه، هو الوحش أطفال الورى يأمنونه، ويصطو على رب السمى المتكبري.",
+      "avg_logprob": -0.17558701916369135,
+      "compression_ratio": 1.891304347826087,
+      "no_speech_prob": 0.6765652894973755,
+      "words": [
+        {
+          "start": 6.8,
+          "end": 7.46,
+          "word": " سلامي",
+          "probability": 0.6277859807014465
+        },
+        {
+          "start": 7.46,
+          "end": 7.62,
+          "word": " على",
+          "probability": 0.9626599550247192
+        },
+        {
+          "start": 7.62,
+          "end": 8.4,
+          "word": " الموحود",
+          "probability": 0.9723524749279022
+        },
+        {
+          "start": 8.4,
+          "end": 9.0,
+          "word": " والأهل",
+          "probability": 0.9780625104904175
+        },
+        {
+          "start": 9.0,
+          "end": 10.1,
+          "word": " دونه،",
+          "probability": 0.7402358204126358
+        },
+        {
+          "start": 10.1,
+          "end": 10.46,
+          "word": " على",
+          "probability": 0.9784435033798218
+        },
+        {
+          "start": 10.46,
+          "end": 11.3,
+          "word": " صادق",
+          "probability": 0.9640829761823019
+        },
+        {
+          "start": 11.3,
+          "end": 12.34,
+          "word": " أربابه",
+          "probability": 0.8324507102370262
+        },
+        {
+          "start": 12.34,
+          "end": 13.82,
+          "word": " يكذبونه،",
+          "probability": 0.9592973675046649
+        },
+        {
+          "start": 13.82,
+          "end": 14.26,
+          "word": " وددت",
+          "probability": 0.836889423429966
+        },
+        {
+          "start": 14.26,
+          "end": 15.1,
+          "word": " ودادا",
+          "probability": 0.6601546481251717
+        },
+        {
+          "start": 15.1,
+          "end": 16.2,
+          "word": " كاملاً",
+          "probability": 0.8736122101545334
+        },
+        {
+          "start": 16.2,
+          "end": 16.48,
+          "word": " أن",
+          "probability": 0.8961567878723145
+        },
+        {
+          "start": 16.48,
+          "end": 17.62,
+          "word": " أكونه،",
+          "probability": 0.7707856558263302
+        },
+        {
+          "start": 17.62,
+          "end": 17.76,
+          "word": " هو",
+          "probability": 0.9839890599250793
+        },
+        {
+          "start": 17.76,
+          "end": 18.22,
+          "word": " الوحش",
+          "probability": 0.9936693906784058
+        },
+        {
+          "start": 18.22,
+          "end": 18.82,
+          "word": " أطفال",
+          "probability": 0.9701407849788666
+        },
+        {
+          "start": 18.82,
+          "end": 19.26,
+          "word": " الورى",
+          "probability": 0.9050547083218893
+        },
+        {
+          "start": 19.26,
+          "end": 20.56,
+          "word": " يأمنونه،",
+          "probability": 0.8795741597811381
+        },
+        {
+          "start": 20.56,
+          "end": 21.2,
+          "word": " ويصطو",
+          "probability": 0.8024682998657227
+        },
+        {
+          "start": 21.2,
+          "end": 21.42,
+          "word": " على",
+          "probability": 0.95909583568573
+        },
+        {
+          "start": 21.42,
+          "end": 21.84,
+          "word": " رب",
+          "probability": 0.9926852285861969
+        },
+        {
+          "start": 21.84,
+          "end": 22.28,
+          "word": " السمى",
+          "probability": 0.8386798699696859
+        },
+        {
+          "start": 22.28,
+          "end": 23.44,
+          "word": " المتكبري.",
+          "probability": 0.9325343370437622
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 23.44,
+      "end": 34.82,
+      "text": "وَمَا لِيْ إِلَاهٌ إِنَّ آلِهَتِي أَنَا لُصُوصٌ عَبَدْنَاهَا بِقِلَّةِ عَقْلِنَا سَأُدْرِكُ ثَعْرِي مِنْ إِلَاهِ بِمَا جَنَا سَأَقْتُلُهُ قَتْلًا نَعَلُ وَغْدُ عَودَنَا",
+      "avg_logprob": -0.13257345988832672,
+      "compression_ratio": 1.8265895953757225,
+      "no_speech_prob": 0.32713815569877625,
+      "words": [
+        {
+          "start": 23.44,
+          "end": 24.04,
+          "word": " وَمَا",
+          "probability": 0.7855237126350403
+        },
+        {
+          "start": 24.04,
+          "end": 24.44,
+          "word": " لِيْ",
+          "probability": 0.8005912452936172
+        },
+        {
+          "start": 24.44,
+          "end": 24.84,
+          "word": " إِلَاهٌ",
+          "probability": 0.8026134272416433
+        },
+        {
+          "start": 24.84,
+          "end": 25.2,
+          "word": " إِنَّ",
+          "probability": 0.9170348942279816
+        },
+        {
+          "start": 25.2,
+          "end": 26.04,
+          "word": " آلِهَتِي",
+          "probability": 0.8572107739746571
+        },
+        {
+          "start": 26.04,
+          "end": 26.38,
+          "word": " أَنَا",
+          "probability": 0.9058332204818725
+        },
+        {
+          "start": 26.38,
+          "end": 27.26,
+          "word": " لُصُوصٌ",
+          "probability": 0.9393856866019112
+        },
+        {
+          "start": 27.26,
+          "end": 28.1,
+          "word": " عَبَدْنَاهَا",
+          "probability": 0.9124159000136636
+        },
+        {
+          "start": 28.1,
+          "end": 28.7,
+          "word": " بِقِلَّةِ",
+          "probability": 0.9813853278756142
+        },
+        {
+          "start": 28.7,
+          "end": 29.28,
+          "word": " عَقْلِنَا",
+          "probability": 0.9857688811090257
+        },
+        {
+          "start": 29.28,
+          "end": 30.06,
+          "word": " سَأُدْرِكُ",
+          "probability": 0.9749953389167786
+        },
+        {
+          "start": 30.06,
+          "end": 30.58,
+          "word": " ثَعْرِي",
+          "probability": 0.9183188506535122
+        },
+        {
+          "start": 30.58,
+          "end": 30.82,
+          "word": " مِنْ",
+          "probability": 0.9438617676496506
+        },
+        {
+          "start": 30.82,
+          "end": 31.36,
+          "word": " إِلَاهِ",
+          "probability": 0.889912615219752
+        },
+        {
+          "start": 31.36,
+          "end": 31.66,
+          "word": " بِمَا",
+          "probability": 0.9538236856460571
+        },
+        {
+          "start": 31.66,
+          "end": 32.14,
+          "word": " جَنَا",
+          "probability": 0.8862593054771424
+        },
+        {
+          "start": 32.14,
+          "end": 33.14,
+          "word": " سَأَقْتُلُهُ",
+          "probability": 0.9737101842959722
+        },
+        {
+          "start": 33.14,
+          "end": 33.62,
+          "word": " قَتْلًا",
+          "probability": 0.9924121924809047
+        },
+        {
+          "start": 33.62,
+          "end": 34.02,
+          "word": " نَعَلُ",
+          "probability": 0.7774859468142191
+        },
+        {
+          "start": 34.02,
+          "end": 34.32,
+          "word": " وَغْدُ",
+          "probability": 0.8693115512530009
+        },
+        {
+          "start": 34.32,
+          "end": 34.82,
+          "word": " عَودَنَا",
+          "probability": 0.9216376372746059
+        }
+      ]
+    }
+  ],
+  "text": "قُدْتُ إِلَى وَحْشِ الْفَلَى بِقَرَابَةٍ وَأَكْرِمْ بِهِمْ مِنْ مَعْشَرٍ وَابْنِ مَعْشَرِينَ\nسلامي على الموحود والأهل دونه، على صادق أربابه يكذبونه، وددت ودادا كاملاً أن أكونه، هو الوحش أطفال الورى يأمنونه، ويصطو على رب السمى المتكبري.\nوَمَا لِيْ إِلَاهٌ إِنَّ آلِهَتِي أَنَا لُصُوصٌ عَبَدْنَاهَا بِقِلَّةِ عَقْلِنَا سَأُدْرِكُ ثَعْرِي مِنْ إِلَاهِ بِمَا جَنَا سَأَقْتُلُهُ قَتْلًا نَعَلُ وَغْدُ عَودَنَا"
+}

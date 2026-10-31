@@ -1,0 +1,29 @@
+{
+  "human_lines": 443,
+  "youtube_start_line_1_based": 594,
+  "continuation_lines": 1318,
+  "automatic_diacritized_lines": 1318,
+  "excluded_sound_event_lines": [
+    "[تصفيق]",
+    "[تصفيق]",
+    "[تصفيق]",
+    "[تصفيق]",
+    "[موسيقى]",
+    "[تصفيق]",
+    "[تصفيق]",
+    "[تصفيق]",
+    "[تصفيق]",
+    "[تصفيق]",
+    "[تصفيق]",
+    "[تصفيق]",
+    "[تصفيق]",
+    "[موسيقى]"
+  ],
+  "deterministic_name_corrections": {
+    "أُورُوك": 14,
+    "أنكيدو": 15,
+    "أورشنابي": 4
+  },
+  "human_words": 3935,
+  "continuation_words": 9687
+}

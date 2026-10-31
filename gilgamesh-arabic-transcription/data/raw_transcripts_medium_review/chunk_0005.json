@@ -1,0 +1,383 @@
+{
+  "audio": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_05_0007373000_0007397020.wav",
+  "metadata": {
+    "index": 5,
+    "start": 7373.0,
+    "end": 7397.02,
+    "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_05_0007373000_0007397020.wav",
+    "comparison_score": 74.47,
+    "small_transcript": "العين مرت في طويل العشبي أفعا رأيها، دخلت في الرحل تبغي نبتة الخلدي طعاما، فزك المجنوني فزن أرشنابي، صائحا ويل عليها، كما عني سيدي، أمسك بها لم يتحرك قطغ الجامش، لم يعلم لماذا، لم يكن"
+  },
+  "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+  "device": "cpu",
+  "compute_type": "int8",
+  "settings": {
+    "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "beam_size": 5,
+    "vad_filter": false
+  },
+  "detected_language": "ar",
+  "language_probability": 1,
+  "duration": 24.02,
+  "duration_after_vad": 24.02,
+  "elapsed_seconds": 24.867616891860962,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 23.64,
+      "text": "لكن إن يُرِده فليرِده، ليتني بالخُلد يومًا لم أعده، إذهما في العين مرت في طويل العشب أفعًا، رآياها، دخلت في الرحل تبغي نبتة الخُلد طعامًا، فزك المجنون فزًا أرشنابي، صائحًا ويلي عليها، قم عِني سيدي أمسك بها، لم يتحرك قطُّجي الجامش، لم يعلم لماذا، لم يكن آبَ ولكن كان في القلب شعورٌ أنه آبَ ولا يبغي ارتحالًا.",
+      "avg_logprob": -0.21089147453639598,
+      "compression_ratio": 1.9475524475524475,
+      "no_speech_prob": 0.14181804656982422,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.24,
+          "word": " لكن",
+          "probability": 0.4077719449996948
+        },
+        {
+          "start": 0.24,
+          "end": 0.58,
+          "word": " إن",
+          "probability": 0.7566996812820435
+        },
+        {
+          "start": 0.58,
+          "end": 1.18,
+          "word": " يُرِده",
+          "probability": 0.8256038675705591
+        },
+        {
+          "start": 1.18,
+          "end": 2.38,
+          "word": " فليرِده،",
+          "probability": 0.7115743947880608
+        },
+        {
+          "start": 2.38,
+          "end": 2.72,
+          "word": " ليتني",
+          "probability": 0.8667985796928406
+        },
+        {
+          "start": 2.72,
+          "end": 3.06,
+          "word": " بالخُلد",
+          "probability": 0.8594070196151733
+        },
+        {
+          "start": 3.06,
+          "end": 3.4,
+          "word": " يومًا",
+          "probability": 0.7797197252511978
+        },
+        {
+          "start": 3.4,
+          "end": 3.52,
+          "word": " لم",
+          "probability": 0.9320926070213318
+        },
+        {
+          "start": 3.52,
+          "end": 4.52,
+          "word": " أعده،",
+          "probability": 0.7367867343127728
+        },
+        {
+          "start": 4.52,
+          "end": 4.96,
+          "word": " إذهما",
+          "probability": 0.7397643253207207
+        },
+        {
+          "start": 4.96,
+          "end": 5.12,
+          "word": " في",
+          "probability": 0.9488207697868347
+        },
+        {
+          "start": 5.12,
+          "end": 5.44,
+          "word": " العين",
+          "probability": 0.9845222532749176
+        },
+        {
+          "start": 5.44,
+          "end": 5.82,
+          "word": " مرت",
+          "probability": 0.7293233871459961
+        },
+        {
+          "start": 5.82,
+          "end": 6.04,
+          "word": " في",
+          "probability": 0.9766904711723328
+        },
+        {
+          "start": 6.04,
+          "end": 6.36,
+          "word": " طويل",
+          "probability": 0.9808071255683899
+        },
+        {
+          "start": 6.36,
+          "end": 6.76,
+          "word": " العشب",
+          "probability": 0.9249852299690247
+        },
+        {
+          "start": 6.76,
+          "end": 7.62,
+          "word": " أفعًا،",
+          "probability": 0.8090914189815521
+        },
+        {
+          "start": 7.62,
+          "end": 8.4,
+          "word": " رآياها،",
+          "probability": 0.7334505120913187
+        },
+        {
+          "start": 8.4,
+          "end": 8.82,
+          "word": " دخلت",
+          "probability": 0.9521959722042084
+        },
+        {
+          "start": 8.82,
+          "end": 8.9,
+          "word": " في",
+          "probability": 0.9560391902923584
+        },
+        {
+          "start": 8.9,
+          "end": 9.24,
+          "word": " الرحل",
+          "probability": 0.8617797493934631
+        },
+        {
+          "start": 9.24,
+          "end": 9.56,
+          "word": " تبغي",
+          "probability": 0.988355278968811
+        },
+        {
+          "start": 9.56,
+          "end": 9.94,
+          "word": " نبتة",
+          "probability": 0.9529727250337601
+        },
+        {
+          "start": 9.94,
+          "end": 10.26,
+          "word": " الخُلد",
+          "probability": 0.9707165360450745
+        },
+        {
+          "start": 10.26,
+          "end": 11.04,
+          "word": " طعامًا،",
+          "probability": 0.923984944820404
+        },
+        {
+          "start": 11.04,
+          "end": 11.42,
+          "word": " فزك",
+          "probability": 0.888132651646932
+        },
+        {
+          "start": 11.42,
+          "end": 11.86,
+          "word": " المجنون",
+          "probability": 0.8069049566984177
+        },
+        {
+          "start": 11.86,
+          "end": 12.24,
+          "word": " فزًا",
+          "probability": 0.779791072010994
+        },
+        {
+          "start": 12.24,
+          "end": 13.08,
+          "word": " أرشنابي،",
+          "probability": 0.6666187246640524
+        },
+        {
+          "start": 13.08,
+          "end": 13.5,
+          "word": " صائحًا",
+          "probability": 0.9524164915084838
+        },
+        {
+          "start": 13.5,
+          "end": 13.84,
+          "word": " ويلي",
+          "probability": 0.689352830251058
+        },
+        {
+          "start": 13.84,
+          "end": 14.38,
+          "word": " عليها،",
+          "probability": 0.8400296370188395
+        },
+        {
+          "start": 14.38,
+          "end": 14.48,
+          "word": " قم",
+          "probability": 0.8611805438995361
+        },
+        {
+          "start": 14.48,
+          "end": 14.8,
+          "word": " عِني",
+          "probability": 0.44858884811401367
+        },
+        {
+          "start": 14.8,
+          "end": 15.18,
+          "word": " سيدي",
+          "probability": 0.8253015677134196
+        },
+        {
+          "start": 15.18,
+          "end": 15.54,
+          "word": " أمسك",
+          "probability": 0.96265709400177
+        },
+        {
+          "start": 15.54,
+          "end": 15.9,
+          "word": " بها،",
+          "probability": 0.7469735443592072
+        },
+        {
+          "start": 15.9,
+          "end": 15.9,
+          "word": " لم",
+          "probability": 0.9862173795700073
+        },
+        {
+          "start": 15.9,
+          "end": 16.4,
+          "word": " يتحرك",
+          "probability": 0.9640194624662399
+        },
+        {
+          "start": 16.4,
+          "end": 16.86,
+          "word": " قطُّجي",
+          "probability": 0.7229287475347519
+        },
+        {
+          "start": 16.86,
+          "end": 17.52,
+          "word": " الجامش،",
+          "probability": 0.6227465718984604
+        },
+        {
+          "start": 17.52,
+          "end": 17.66,
+          "word": " لم",
+          "probability": 0.9959270358085632
+        },
+        {
+          "start": 17.66,
+          "end": 17.96,
+          "word": " يعلم",
+          "probability": 0.8996442258358002
+        },
+        {
+          "start": 17.96,
+          "end": 18.66,
+          "word": " لماذا،",
+          "probability": 0.9534838944673538
+        },
+        {
+          "start": 18.66,
+          "end": 18.82,
+          "word": " لم",
+          "probability": 0.9948534369468689
+        },
+        {
+          "start": 18.82,
+          "end": 19.1,
+          "word": " يكن",
+          "probability": 0.9631613790988922
+        },
+        {
+          "start": 19.1,
+          "end": 19.52,
+          "word": " آبَ",
+          "probability": 0.7155161996682485
+        },
+        {
+          "start": 19.52,
+          "end": 20.58,
+          "word": " ولكن",
+          "probability": 0.8495234549045563
+        },
+        {
+          "start": 20.58,
+          "end": 20.86,
+          "word": " كان",
+          "probability": 0.6670178174972534
+        },
+        {
+          "start": 20.86,
+          "end": 21.02,
+          "word": " في",
+          "probability": 0.9793528914451599
+        },
+        {
+          "start": 21.02,
+          "end": 21.32,
+          "word": " القلب",
+          "probability": 0.9694660604000092
+        },
+        {
+          "start": 21.32,
+          "end": 21.96,
+          "word": " شعورٌ",
+          "probability": 0.9098902940750122
+        },
+        {
+          "start": 21.96,
+          "end": 22.28,
+          "word": " أنه",
+          "probability": 0.904092401266098
+        },
+        {
+          "start": 22.28,
+          "end": 22.62,
+          "word": " آبَ",
+          "probability": 0.9561375180880228
+        },
+        {
+          "start": 22.62,
+          "end": 22.74,
+          "word": " ولا",
+          "probability": 0.9678129553794861
+        },
+        {
+          "start": 22.74,
+          "end": 23.0,
+          "word": " يبغي",
+          "probability": 0.9625115990638733
+        },
+        {
+          "start": 23.0,
+          "end": 23.64,
+          "word": " ارتحالًا.",
+          "probability": 0.9612630009651184
+        }
+      ]
+    }
+  ],
+  "text": "لكن إن يُرِده فليرِده، ليتني بالخُلد يومًا لم أعده، إذهما في العين مرت في طويل العشب أفعًا، رآياها، دخلت في الرحل تبغي نبتة الخُلد طعامًا، فزك المجنون فزًا أرشنابي، صائحًا ويلي عليها، قم عِني سيدي أمسك بها، لم يتحرك قطُّجي الجامش، لم يعلم لماذا، لم يكن آبَ ولكن كان في القلب شعورٌ أنه آبَ ولا يبغي ارتحالًا."
+}

@@ -1,0 +1,6 @@
+.venv/
+models/
+input/audio/
+__pycache__/
+*.pyc
+

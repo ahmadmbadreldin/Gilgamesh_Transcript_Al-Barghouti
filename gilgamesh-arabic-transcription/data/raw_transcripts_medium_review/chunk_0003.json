@@ -1,0 +1,356 @@
+{
+  "audio": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_03_0003325700_0003352780.wav",
+  "metadata": {
+    "index": 3,
+    "start": 3325.7,
+    "end": 3352.78,
+    "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_03_0003325700_0003352780.wav",
+    "comparison_score": 72.73,
+    "small_transcript": "بغياً لم يكن سما ولكن يكون سمًّا، ولكن قتلوني، أختي يا ضبيّة فلتًا طضريني، لو قدرت الآن أن أعدوا عدود، أختي يا ضبيّة عودي، أبصري وجهي مليًّا، أبصريني وعرفيني، أنا من فكك من أشراكهم قبل"
+  },
+  "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+  "device": "cpu",
+  "compute_type": "int8",
+  "settings": {
+    "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "beam_size": 5,
+    "vad_filter": false
+  },
+  "detected_language": "ar",
+  "language_probability": 1,
+  "duration": 27.08,
+  "duration_after_vad": 27.08,
+  "elapsed_seconds": 21.726325750350952,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 9.42,
+      "text": "من حرير قيدوني، أطعموني عسلًا يقطر من نهد بغيٍ لم يكن سمًّا، ولكن قتلوني.",
+      "avg_logprob": -0.20972562125234892,
+      "compression_ratio": 1.8857142857142857,
+      "no_speech_prob": 0.9517603516578674,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.32,
+          "word": " من",
+          "probability": 0.680785059928894
+        },
+        {
+          "start": 0.32,
+          "end": 0.92,
+          "word": " حرير",
+          "probability": 0.9506336450576782
+        },
+        {
+          "start": 0.92,
+          "end": 2.44,
+          "word": " قيدوني،",
+          "probability": 0.7361370705068111
+        },
+        {
+          "start": 2.44,
+          "end": 3.52,
+          "word": " أطعموني",
+          "probability": 0.9572609066963196
+        },
+        {
+          "start": 3.52,
+          "end": 4.14,
+          "word": " عسلًا",
+          "probability": 0.7005693882703781
+        },
+        {
+          "start": 4.14,
+          "end": 4.58,
+          "word": " يقطر",
+          "probability": 0.8825413783391317
+        },
+        {
+          "start": 4.58,
+          "end": 4.78,
+          "word": " من",
+          "probability": 0.8945533633232117
+        },
+        {
+          "start": 4.78,
+          "end": 5.12,
+          "word": " نهد",
+          "probability": 0.9093510508537292
+        },
+        {
+          "start": 5.12,
+          "end": 6.14,
+          "word": " بغيٍ",
+          "probability": 0.8541763871908188
+        },
+        {
+          "start": 6.14,
+          "end": 6.3,
+          "word": " لم",
+          "probability": 0.5237547159194946
+        },
+        {
+          "start": 6.3,
+          "end": 6.66,
+          "word": " يكن",
+          "probability": 0.9885808527469635
+        },
+        {
+          "start": 6.66,
+          "end": 7.7,
+          "word": " سمًّا،",
+          "probability": 0.6975777645905813
+        },
+        {
+          "start": 7.7,
+          "end": 8.3,
+          "word": " ولكن",
+          "probability": 0.939200758934021
+        },
+        {
+          "start": 8.3,
+          "end": 9.42,
+          "word": " قتلوني.",
+          "probability": 0.9905507326126098
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 9.44,
+      "end": 14.7,
+      "text": "أختي يا ضبية فلتنتظريني، لو قدرت الآن أن أعدوا عدود.",
+      "avg_logprob": -0.20972562125234892,
+      "compression_ratio": 1.8857142857142857,
+      "no_speech_prob": 0.9517603516578674,
+      "words": [
+        {
+          "start": 9.44,
+          "end": 9.92,
+          "word": " أختي",
+          "probability": 0.6950584550698599
+        },
+        {
+          "start": 9.92,
+          "end": 10.08,
+          "word": " يا",
+          "probability": 0.9472368359565735
+        },
+        {
+          "start": 10.08,
+          "end": 10.6,
+          "word": " ضبية",
+          "probability": 0.70478355884552
+        },
+        {
+          "start": 10.6,
+          "end": 12.32,
+          "word": " فلتنتظريني،",
+          "probability": 0.7929070194562277
+        },
+        {
+          "start": 12.32,
+          "end": 12.44,
+          "word": " لو",
+          "probability": 0.9886868000030518
+        },
+        {
+          "start": 12.44,
+          "end": 12.92,
+          "word": " قدرت",
+          "probability": 0.9835883378982544
+        },
+        {
+          "start": 12.92,
+          "end": 13.4,
+          "word": " الآن",
+          "probability": 0.8776200115680695
+        },
+        {
+          "start": 13.4,
+          "end": 13.66,
+          "word": " أن",
+          "probability": 0.9516225457191467
+        },
+        {
+          "start": 13.66,
+          "end": 14.12,
+          "word": " أعدوا",
+          "probability": 0.9359559814135233
+        },
+        {
+          "start": 14.12,
+          "end": 14.7,
+          "word": " عدود.",
+          "probability": 0.777472456296285
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 15.02,
+      "end": 19.96,
+      "text": "أختي يا ضبية عودي أبصري وجهي مليًّا، أبصريني وعرفيني.",
+      "avg_logprob": -0.20972562125234892,
+      "compression_ratio": 1.8857142857142857,
+      "no_speech_prob": 0.9517603516578674,
+      "words": [
+        {
+          "start": 15.02,
+          "end": 15.42,
+          "word": " أختي",
+          "probability": 0.9931715726852417
+        },
+        {
+          "start": 15.42,
+          "end": 15.52,
+          "word": " يا",
+          "probability": 0.9890192151069641
+        },
+        {
+          "start": 15.52,
+          "end": 16.06,
+          "word": " ضبية",
+          "probability": 0.9909745653470358
+        },
+        {
+          "start": 16.06,
+          "end": 16.48,
+          "word": " عودي",
+          "probability": 0.8208450078964233
+        },
+        {
+          "start": 16.48,
+          "end": 17.02,
+          "word": " أبصري",
+          "probability": 0.8181530982255936
+        },
+        {
+          "start": 17.02,
+          "end": 17.54,
+          "word": " وجهي",
+          "probability": 0.9645841717720032
+        },
+        {
+          "start": 17.54,
+          "end": 18.16,
+          "word": " مليًّا،",
+          "probability": 0.9212119877338409
+        },
+        {
+          "start": 18.16,
+          "end": 18.88,
+          "word": " أبصريني",
+          "probability": 0.8498441457748414
+        },
+        {
+          "start": 18.88,
+          "end": 19.96,
+          "word": " وعرفيني.",
+          "probability": 0.8638254404067993
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 20.12,
+      "end": 27.06,
+      "text": "أنا من فكك من أشراكهم قبل مرارًا، فكسري عني شراك اليوم، أرجوك رجاءً خلصيني.",
+      "avg_logprob": -0.20972562125234892,
+      "compression_ratio": 1.8857142857142857,
+      "no_speech_prob": 0.9517603516578674,
+      "words": [
+        {
+          "start": 20.12,
+          "end": 20.24,
+          "word": " أنا",
+          "probability": 0.9519405961036682
+        },
+        {
+          "start": 20.24,
+          "end": 20.4,
+          "word": " من",
+          "probability": 0.9875511527061462
+        },
+        {
+          "start": 20.4,
+          "end": 20.88,
+          "word": " فكك",
+          "probability": 0.8340707222620646
+        },
+        {
+          "start": 20.88,
+          "end": 21.06,
+          "word": " من",
+          "probability": 0.823797345161438
+        },
+        {
+          "start": 21.06,
+          "end": 21.82,
+          "word": " أشراكهم",
+          "probability": 0.9003552675247193
+        },
+        {
+          "start": 21.82,
+          "end": 22.16,
+          "word": " قبل",
+          "probability": 0.9877760410308838
+        },
+        {
+          "start": 22.16,
+          "end": 23.16,
+          "word": " مرارًا،",
+          "probability": 0.8320273756980896
+        },
+        {
+          "start": 23.16,
+          "end": 23.64,
+          "word": " فكسري",
+          "probability": 0.8313354700803757
+        },
+        {
+          "start": 23.64,
+          "end": 24.04,
+          "word": " عني",
+          "probability": 0.9103112518787384
+        },
+        {
+          "start": 24.04,
+          "end": 24.56,
+          "word": " شراك",
+          "probability": 0.9881232380867004
+        },
+        {
+          "start": 24.56,
+          "end": 25.1,
+          "word": " اليوم،",
+          "probability": 0.7329045335451762
+        },
+        {
+          "start": 25.1,
+          "end": 25.64,
+          "word": " أرجوك",
+          "probability": 0.9942702353000641
+        },
+        {
+          "start": 25.64,
+          "end": 26.5,
+          "word": " رجاءً",
+          "probability": 0.9671764969825745
+        },
+        {
+          "start": 26.5,
+          "end": 27.06,
+          "word": " خلصيني.",
+          "probability": 0.9593726754188537
+        }
+      ]
+    }
+  ],
+  "text": "من حرير قيدوني، أطعموني عسلًا يقطر من نهد بغيٍ لم يكن سمًّا، ولكن قتلوني.\nأختي يا ضبية فلتنتظريني، لو قدرت الآن أن أعدوا عدود.\nأختي يا ضبية عودي أبصري وجهي مليًّا، أبصريني وعرفيني.\nأنا من فكك من أشراكهم قبل مرارًا، فكسري عني شراك اليوم، أرجوك رجاءً خلصيني."
+}

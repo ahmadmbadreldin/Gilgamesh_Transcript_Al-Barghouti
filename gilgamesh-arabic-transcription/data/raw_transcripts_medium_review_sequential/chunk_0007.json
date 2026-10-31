@@ -1,0 +1,534 @@
+{
+  "audio": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_07_0005938120_0005986120.wav",
+  "metadata": {
+    "index": 7,
+    "start": 5938.12,
+    "end": 5986.12,
+    "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_07_0005938120_0005986120.wav",
+    "comparison_score": 76.12,
+    "small_transcript": "بينهم ربا بلا عبد ولا خوف ولا قتلة أجبنا ولك العرفان مننا كنت ملكاً لشرباق التي تعرفها، شابت وشابت وصطها آلهة تُعبد فيها، كن أيام رخائن، كل ملك يحسب الأيام رخائن، والملك بالناس فلا بد"
+  },
+  "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+  "device": "cpu",
+  "compute_type": "int8",
+  "settings": {
+    "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "beam_size": 5,
+    "vad_filter": false
+  },
+  "detected_language": "ar",
+  "language_probability": 1,
+  "duration": 48.0,
+  "duration_after_vad": 48.0,
+  "elapsed_seconds": 31.98164653778076,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 12.62,
+      "text": "لست منهم، أنت منا، فأجبنا كيف نلتى الخُلد تحيا بينهم ربا بلا عبد ولا خوف ولا قتلى. أجبنا، ولك العرفان منا.",
+      "avg_logprob": -0.23315792250376877,
+      "compression_ratio": 1.6964285714285714,
+      "no_speech_prob": 0.3204781711101532,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.46,
+          "word": " لست",
+          "probability": 0.6649692356586456
+        },
+        {
+          "start": 0.46,
+          "end": 1.62,
+          "word": " منهم،",
+          "probability": 0.6394823168714842
+        },
+        {
+          "start": 1.62,
+          "end": 1.92,
+          "word": " أنت",
+          "probability": 0.7892314493656158
+        },
+        {
+          "start": 1.92,
+          "end": 3.04,
+          "word": " منا،",
+          "probability": 0.545061469078064
+        },
+        {
+          "start": 3.04,
+          "end": 3.62,
+          "word": " فأجبنا",
+          "probability": 0.9768331527709961
+        },
+        {
+          "start": 3.62,
+          "end": 3.94,
+          "word": " كيف",
+          "probability": 0.9810018241405487
+        },
+        {
+          "start": 3.94,
+          "end": 4.32,
+          "word": " نلتى",
+          "probability": 0.8904502093791962
+        },
+        {
+          "start": 4.32,
+          "end": 4.66,
+          "word": " الخُلد",
+          "probability": 0.7014242820441723
+        },
+        {
+          "start": 4.66,
+          "end": 5.08,
+          "word": " تحيا",
+          "probability": 0.8169317444165548
+        },
+        {
+          "start": 5.08,
+          "end": 5.78,
+          "word": " بينهم",
+          "probability": 0.9769364297389984
+        },
+        {
+          "start": 5.78,
+          "end": 6.7,
+          "word": " ربا",
+          "probability": 0.8058358033498129
+        },
+        {
+          "start": 6.7,
+          "end": 6.92,
+          "word": " بلا",
+          "probability": 0.8042289316654205
+        },
+        {
+          "start": 6.92,
+          "end": 7.3,
+          "word": " عبد",
+          "probability": 0.9552054107189178
+        },
+        {
+          "start": 7.3,
+          "end": 7.98,
+          "word": " ولا",
+          "probability": 0.7694767117500305
+        },
+        {
+          "start": 7.98,
+          "end": 8.68,
+          "word": " خوف",
+          "probability": 0.9765350222587585
+        },
+        {
+          "start": 8.68,
+          "end": 9.26,
+          "word": " ولا",
+          "probability": 0.9399696588516235
+        },
+        {
+          "start": 9.26,
+          "end": 10.12,
+          "word": " قتلى.",
+          "probability": 0.8684627215067545
+        },
+        {
+          "start": 10.44,
+          "end": 11.26,
+          "word": " أجبنا،",
+          "probability": 0.8756739258766174
+        },
+        {
+          "start": 11.26,
+          "end": 11.48,
+          "word": " ولك",
+          "probability": 0.7025809735059738
+        },
+        {
+          "start": 11.48,
+          "end": 12.0,
+          "word": " العرفان",
+          "probability": 0.6804699897766113
+        },
+        {
+          "start": 12.0,
+          "end": 12.62,
+          "word": " منا.",
+          "probability": 0.9470285475254059
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 13.38,
+      "end": 20.62,
+      "text": "قال فاسمع قصة الطوفان يا جلجامش المرهق وحفظ ما أقول.",
+      "avg_logprob": -0.23315792250376877,
+      "compression_ratio": 1.6964285714285714,
+      "no_speech_prob": 0.3204781711101532,
+      "words": [
+        {
+          "start": 13.38,
+          "end": 13.64,
+          "word": " قال",
+          "probability": 0.7642437815666199
+        },
+        {
+          "start": 13.64,
+          "end": 14.8,
+          "word": " فاسمع",
+          "probability": 0.9299047440290451
+        },
+        {
+          "start": 14.8,
+          "end": 15.46,
+          "word": " قصة",
+          "probability": 0.9576587875684103
+        },
+        {
+          "start": 15.46,
+          "end": 16.22,
+          "word": " الطوفان",
+          "probability": 0.9584238529205322
+        },
+        {
+          "start": 16.22,
+          "end": 16.42,
+          "word": " يا",
+          "probability": 0.42010900378227234
+        },
+        {
+          "start": 16.42,
+          "end": 17.18,
+          "word": " جلجامش",
+          "probability": 0.5880168318748474
+        },
+        {
+          "start": 17.18,
+          "end": 17.96,
+          "word": " المرهق",
+          "probability": 0.8544044941663742
+        },
+        {
+          "start": 17.96,
+          "end": 19.8,
+          "word": " وحفظ",
+          "probability": 0.8825254291296005
+        },
+        {
+          "start": 19.8,
+          "end": 20.12,
+          "word": " ما",
+          "probability": 0.9109169840812683
+        },
+        {
+          "start": 20.12,
+          "end": 20.62,
+          "word": " أقول.",
+          "probability": 0.9263713359832764
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 20.62,
+      "end": 30.62,
+      "text": "كنت ملكا لشرباقا التي تعرفها شابت وشابت وسطها آلهة تعبد فيها",
+      "avg_logprob": -0.18888605127529223,
+      "compression_ratio": 1.8727272727272728,
+      "no_speech_prob": 0.6213829517364502,
+      "words": [
+        {
+          "start": 20.62,
+          "end": 22.4,
+          "word": " كنت",
+          "probability": 0.8937700688838959
+        },
+        {
+          "start": 22.4,
+          "end": 23.76,
+          "word": " ملكا",
+          "probability": 0.9080047011375427
+        },
+        {
+          "start": 23.76,
+          "end": 24.58,
+          "word": " لشرباقا",
+          "probability": 0.7712215930223465
+        },
+        {
+          "start": 24.58,
+          "end": 24.78,
+          "word": " التي",
+          "probability": 0.8716822266578674
+        },
+        {
+          "start": 24.78,
+          "end": 26.1,
+          "word": " تعرفها",
+          "probability": 0.9810943206151327
+        },
+        {
+          "start": 26.1,
+          "end": 27.68,
+          "word": " شابت",
+          "probability": 0.966282308101654
+        },
+        {
+          "start": 27.68,
+          "end": 28.32,
+          "word": " وشابت",
+          "probability": 0.9420632570981979
+        },
+        {
+          "start": 28.32,
+          "end": 28.9,
+          "word": " وسطها",
+          "probability": 0.8399486939112345
+        },
+        {
+          "start": 28.9,
+          "end": 29.48,
+          "word": " آلهة",
+          "probability": 0.9081451495488485
+        },
+        {
+          "start": 29.48,
+          "end": 29.94,
+          "word": " تعبد",
+          "probability": 0.6611714164415995
+        },
+        {
+          "start": 29.94,
+          "end": 30.62,
+          "word": " فيها",
+          "probability": 0.9823150336742401
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 31.34,
+      "end": 37.620000000000005,
+      "text": "كنا أيام رخائن كل ملك يحسب الأيام أيام رخائن",
+      "avg_logprob": -0.18888605127529223,
+      "compression_ratio": 1.8727272727272728,
+      "no_speech_prob": 0.6213829517364502,
+      "words": [
+        {
+          "start": 31.34,
+          "end": 31.84,
+          "word": " كنا",
+          "probability": 0.7819303572177887
+        },
+        {
+          "start": 31.84,
+          "end": 32.36,
+          "word": " أيام",
+          "probability": 0.9081412553787231
+        },
+        {
+          "start": 32.36,
+          "end": 33.92,
+          "word": " رخائن",
+          "probability": 0.7533494532108307
+        },
+        {
+          "start": 33.92,
+          "end": 34.26,
+          "word": " كل",
+          "probability": 0.9426792860031128
+        },
+        {
+          "start": 34.26,
+          "end": 35.22,
+          "word": " ملك",
+          "probability": 0.9908846914768219
+        },
+        {
+          "start": 35.22,
+          "end": 36.18,
+          "word": " يحسب",
+          "probability": 0.9361652533213297
+        },
+        {
+          "start": 36.18,
+          "end": 36.72,
+          "word": " الأيام",
+          "probability": 0.78824249903361
+        },
+        {
+          "start": 36.72,
+          "end": 37.16,
+          "word": " أيام",
+          "probability": 0.7227555712064108
+        },
+        {
+          "start": 37.16,
+          "end": 37.69,
+          "word": " رخائن",
+          "probability": 0.9917608052492142
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 38.92,
+      "end": 44.620000000000005,
+      "text": "كنت أبغي أن يدوم الملك لي والملك بالناس فلا بد لهم أن يخلدوا أيضا",
+      "avg_logprob": -0.18888605127529223,
+      "compression_ratio": 1.8727272727272728,
+      "no_speech_prob": 0.6213829517364502,
+      "words": [
+        {
+          "start": 38.92,
+          "end": 39.32,
+          "word": " كنت",
+          "probability": 0.9776806831359863
+        },
+        {
+          "start": 39.32,
+          "end": 39.78,
+          "word": " أبغي",
+          "probability": 0.9811672270298004
+        },
+        {
+          "start": 39.78,
+          "end": 39.9,
+          "word": " أن",
+          "probability": 0.9458428025245667
+        },
+        {
+          "start": 39.9,
+          "end": 40.18,
+          "word": " يدوم",
+          "probability": 0.9838026762008667
+        },
+        {
+          "start": 40.18,
+          "end": 40.58,
+          "word": " الملك",
+          "probability": 0.9926369190216064
+        },
+        {
+          "start": 40.58,
+          "end": 41.28,
+          "word": " لي",
+          "probability": 0.9884938597679138
+        },
+        {
+          "start": 41.28,
+          "end": 42.1,
+          "word": " والملك",
+          "probability": 0.8908769090970358
+        },
+        {
+          "start": 42.1,
+          "end": 42.62,
+          "word": " بالناس",
+          "probability": 0.9925545652707418
+        },
+        {
+          "start": 42.62,
+          "end": 42.92,
+          "word": " فلا",
+          "probability": 0.9831710159778595
+        },
+        {
+          "start": 42.92,
+          "end": 43.14,
+          "word": " بد",
+          "probability": 0.8514514565467834
+        },
+        {
+          "start": 43.14,
+          "end": 43.48,
+          "word": " لهم",
+          "probability": 0.9165118932723999
+        },
+        {
+          "start": 43.48,
+          "end": 43.68,
+          "word": " أن",
+          "probability": 0.8748739361763
+        },
+        {
+          "start": 43.68,
+          "end": 44.14,
+          "word": " يخلدوا",
+          "probability": 0.935159707069397
+        },
+        {
+          "start": 44.14,
+          "end": 44.67,
+          "word": " أيضا",
+          "probability": 0.9361626108487447
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 44.67,
+      "end": 47.97,
+      "text": "بيصير ملك لحاله. فلا بد لهم ان يخلق",
+      "avg_logprob": -0.5558606212337812,
+      "compression_ratio": 0.9841269841269841,
+      "no_speech_prob": 0.5315308570861816,
+      "words": [
+        {
+          "start": 44.67,
+          "end": 45.09,
+          "word": " بيصير",
+          "probability": 0.49680939968675375
+        },
+        {
+          "start": 45.09,
+          "end": 45.31,
+          "word": " ملك",
+          "probability": 0.9860231578350067
+        },
+        {
+          "start": 45.31,
+          "end": 46.99,
+          "word": " لحاله.",
+          "probability": 0.9134634733200073
+        },
+        {
+          "start": 47.15,
+          "end": 47.27,
+          "word": " فلا",
+          "probability": 0.9815850257873535
+        },
+        {
+          "start": 47.27,
+          "end": 47.45,
+          "word": " بد",
+          "probability": 0.8273659348487854
+        },
+        {
+          "start": 47.45,
+          "end": 47.71,
+          "word": " لهم",
+          "probability": 0.8412528336048126
+        },
+        {
+          "start": 47.71,
+          "end": 47.85,
+          "word": " ان",
+          "probability": 0.7105083465576172
+        },
+        {
+          "start": 47.85,
+          "end": 47.97,
+          "word": " يخلق",
+          "probability": 0.5550017319619656
+        }
+      ]
+    }
+  ],
+  "text": "لست منهم، أنت منا، فأجبنا كيف نلتى الخُلد تحيا بينهم ربا بلا عبد ولا خوف ولا قتلى. أجبنا، ولك العرفان منا.\nقال فاسمع قصة الطوفان يا جلجامش المرهق وحفظ ما أقول.\nكنت ملكا لشرباقا التي تعرفها شابت وشابت وسطها آلهة تعبد فيها\nكنا أيام رخائن كل ملك يحسب الأيام أيام رخائن\nكنت أبغي أن يدوم الملك لي والملك بالناس فلا بد لهم أن يخلدوا أيضا\nبيصير ملك لحاله. فلا بد لهم ان يخلق"
+}

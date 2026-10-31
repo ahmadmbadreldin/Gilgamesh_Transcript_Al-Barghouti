@@ -1,0 +1,15 @@
+{
+  "platform": "Windows-10-10.0.26200-SP0",
+  "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+  "python_executable": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\.venv\\Scripts\\python.exe",
+  "cpu_physical": 8,
+  "cpu_logical": 16,
+  "ram_total_gb": 15.372,
+  "ram_available_gb": 2.68,
+  "disk_total_gb": 931.497,
+  "disk_free_gb": 121.677,
+  "ffmpeg": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\.venv\\Lib\\site-packages\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+  "ffprobe_on_path": null,
+  "nvidia_smi_on_path": "C:\\WINDOWS\\system32\\nvidia-smi.EXE",
+  "gpu": "GeForce GTX 1650 Ti, 4096 MiB, 457.49"
+}

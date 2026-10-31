@@ -1,0 +1,387 @@
+{
+  "audio": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_05_0003360700_0003388080.wav",
+  "metadata": {
+    "index": 5,
+    "start": 3360.7,
+    "end": 3388.08,
+    "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_05_0003360700_0003388080.wav",
+    "comparison_score": 79.58,
+    "small_transcript": "يا صديقي ليس ذا وقت المراهي سوف تنجو لما لا تسمع قولي ليس للأرباب موت لم يجب بل عينه ظلت على الباب وسالت كان هذا الباب ضخماً عالياً مصراعه من خشب الأرز الذي جاء به"
+  },
+  "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+  "device": "cpu",
+  "compute_type": "int8",
+  "settings": {
+    "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "beam_size": 5,
+    "vad_filter": false
+  },
+  "detected_language": "ar",
+  "language_probability": 1,
+  "duration": 27.38,
+  "duration_after_vad": 27.38,
+  "elapsed_seconds": 19.450436115264893,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.26,
+      "text": "لو قدرت الآن أن أخطو، خطوط، قال جلجامش مهلا يا صديقي، ليس ذا وقت المراثي سوف تنجو،",
+      "avg_logprob": -0.18163992600007492,
+      "compression_ratio": 1.8588235294117648,
+      "no_speech_prob": 0.17106369137763977,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.28,
+          "word": " لو",
+          "probability": 0.7270429134368896
+        },
+        {
+          "start": 0.28,
+          "end": 0.74,
+          "word": " قدرت",
+          "probability": 0.9768669605255127
+        },
+        {
+          "start": 0.74,
+          "end": 1.22,
+          "word": " الآن",
+          "probability": 0.6793537139892578
+        },
+        {
+          "start": 1.22,
+          "end": 1.46,
+          "word": " أن",
+          "probability": 0.8430758714675903
+        },
+        {
+          "start": 1.46,
+          "end": 2.58,
+          "word": " أخطو،",
+          "probability": 0.6911289531737566
+        },
+        {
+          "start": 2.58,
+          "end": 3.82,
+          "word": " خطوط،",
+          "probability": 0.6388707268983126
+        },
+        {
+          "start": 3.82,
+          "end": 4.1,
+          "word": " قال",
+          "probability": 0.9451584219932556
+        },
+        {
+          "start": 4.1,
+          "end": 4.66,
+          "word": " جلجامش",
+          "probability": 0.6603153496980667
+        },
+        {
+          "start": 4.66,
+          "end": 5.0,
+          "word": " مهلا",
+          "probability": 0.9215818047523499
+        },
+        {
+          "start": 5.0,
+          "end": 5.18,
+          "word": " يا",
+          "probability": 0.7727717161178589
+        },
+        {
+          "start": 5.18,
+          "end": 6.08,
+          "word": " صديقي،",
+          "probability": 0.7688839416950941
+        },
+        {
+          "start": 6.08,
+          "end": 6.26,
+          "word": " ليس",
+          "probability": 0.9899371862411499
+        },
+        {
+          "start": 6.26,
+          "end": 6.44,
+          "word": " ذا",
+          "probability": 0.9622046947479248
+        },
+        {
+          "start": 6.44,
+          "end": 6.66,
+          "word": " وقت",
+          "probability": 0.9677411317825317
+        },
+        {
+          "start": 6.66,
+          "end": 7.26,
+          "word": " المراثي",
+          "probability": 0.8373446106910706
+        },
+        {
+          "start": 7.26,
+          "end": 7.5,
+          "word": " سوف",
+          "probability": 0.9131372272968292
+        },
+        {
+          "start": 7.5,
+          "end": 8.26,
+          "word": " تنجو،",
+          "probability": 0.9194834470748902
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 8.26,
+      "end": 17.0,
+      "text": "لما لا تسمع قولي ليس للأرباب موت؟ لم يجب، بل عينه ظلت على الباب وسالت،",
+      "avg_logprob": -0.18163992600007492,
+      "compression_ratio": 1.8588235294117648,
+      "no_speech_prob": 0.17106369137763977,
+      "words": [
+        {
+          "start": 8.26,
+          "end": 8.38,
+          "word": " لما",
+          "probability": 0.590708926320076
+        },
+        {
+          "start": 8.38,
+          "end": 8.56,
+          "word": " لا",
+          "probability": 0.9928789734840393
+        },
+        {
+          "start": 8.56,
+          "end": 8.96,
+          "word": " تسمع",
+          "probability": 0.989802896976471
+        },
+        {
+          "start": 8.96,
+          "end": 9.68,
+          "word": " قولي",
+          "probability": 0.971354603767395
+        },
+        {
+          "start": 9.68,
+          "end": 10.2,
+          "word": " ليس",
+          "probability": 0.7553043365478516
+        },
+        {
+          "start": 10.2,
+          "end": 11.06,
+          "word": " للأرباب",
+          "probability": 0.9395537823438644
+        },
+        {
+          "start": 11.06,
+          "end": 12.74,
+          "word": " موت؟",
+          "probability": 0.8964736859003702
+        },
+        {
+          "start": 12.74,
+          "end": 12.88,
+          "word": " لم",
+          "probability": 0.8273081183433533
+        },
+        {
+          "start": 12.88,
+          "end": 13.9,
+          "word": " يجب،",
+          "probability": 0.8433998674154282
+        },
+        {
+          "start": 13.9,
+          "end": 14.6,
+          "word": " بل",
+          "probability": 0.9883305728435516
+        },
+        {
+          "start": 14.6,
+          "end": 15.1,
+          "word": " عينه",
+          "probability": 0.9654149413108826
+        },
+        {
+          "start": 15.1,
+          "end": 15.56,
+          "word": " ظلت",
+          "probability": 0.861128456890583
+        },
+        {
+          "start": 15.56,
+          "end": 15.76,
+          "word": " على",
+          "probability": 0.9932938814163208
+        },
+        {
+          "start": 15.76,
+          "end": 16.18,
+          "word": " الباب",
+          "probability": 0.9890067875385284
+        },
+        {
+          "start": 16.18,
+          "end": 17.0,
+          "word": " وسالت،",
+          "probability": 0.8283462822437286
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 17.58,
+      "end": 27.32,
+      "text": "كان هذا الباب ضخما عاليا مصراعه من خشب الأرز الذي جاء به من عند حمبابة لما قتله عرضه نحو ثلاثين ذراعا وذراعان.",
+      "avg_logprob": -0.18163992600007492,
+      "compression_ratio": 1.8588235294117648,
+      "no_speech_prob": 0.17106369137763977,
+      "words": [
+        {
+          "start": 17.58,
+          "end": 17.82,
+          "word": " كان",
+          "probability": 0.9927226901054382
+        },
+        {
+          "start": 17.82,
+          "end": 18.16,
+          "word": " هذا",
+          "probability": 0.9927988052368164
+        },
+        {
+          "start": 18.16,
+          "end": 18.48,
+          "word": " الباب",
+          "probability": 0.9991978108882904
+        },
+        {
+          "start": 18.48,
+          "end": 18.98,
+          "word": " ضخما",
+          "probability": 0.9393922289212545
+        },
+        {
+          "start": 18.98,
+          "end": 19.58,
+          "word": " عاليا",
+          "probability": 0.8800917665163676
+        },
+        {
+          "start": 19.58,
+          "end": 20.46,
+          "word": " مصراعه",
+          "probability": 0.893761932849884
+        },
+        {
+          "start": 20.46,
+          "end": 20.78,
+          "word": " من",
+          "probability": 0.939621090888977
+        },
+        {
+          "start": 20.78,
+          "end": 21.18,
+          "word": " خشب",
+          "probability": 0.9900437196095785
+        },
+        {
+          "start": 21.18,
+          "end": 21.52,
+          "word": " الأرز",
+          "probability": 0.8102323214213053
+        },
+        {
+          "start": 21.52,
+          "end": 21.78,
+          "word": " الذي",
+          "probability": 0.9470464587211609
+        },
+        {
+          "start": 21.78,
+          "end": 22.12,
+          "word": " جاء",
+          "probability": 0.9647702574729919
+        },
+        {
+          "start": 22.12,
+          "end": 22.44,
+          "word": " به",
+          "probability": 0.9552757740020752
+        },
+        {
+          "start": 22.44,
+          "end": 22.62,
+          "word": " من",
+          "probability": 0.9887747764587402
+        },
+        {
+          "start": 22.62,
+          "end": 22.84,
+          "word": " عند",
+          "probability": 0.8212831020355225
+        },
+        {
+          "start": 22.84,
+          "end": 23.5,
+          "word": " حمبابة",
+          "probability": 0.8054950445890426
+        },
+        {
+          "start": 23.5,
+          "end": 23.78,
+          "word": " لما",
+          "probability": 0.983655571937561
+        },
+        {
+          "start": 23.78,
+          "end": 24.32,
+          "word": " قتله",
+          "probability": 0.9596712390581766
+        },
+        {
+          "start": 24.32,
+          "end": 25.14,
+          "word": " عرضه",
+          "probability": 0.8567107518513998
+        },
+        {
+          "start": 25.14,
+          "end": 25.44,
+          "word": " نحو",
+          "probability": 0.9978137214978536
+        },
+        {
+          "start": 25.44,
+          "end": 25.92,
+          "word": " ثلاثين",
+          "probability": 0.9319782972335815
+        },
+        {
+          "start": 25.92,
+          "end": 26.6,
+          "word": " ذراعا",
+          "probability": 0.9489895105361938
+        },
+        {
+          "start": 26.6,
+          "end": 27.32,
+          "word": " وذراعان.",
+          "probability": 0.9567227482795715
+        }
+      ]
+    }
+  ],
+  "text": "لو قدرت الآن أن أخطو، خطوط، قال جلجامش مهلا يا صديقي، ليس ذا وقت المراثي سوف تنجو،\nلما لا تسمع قولي ليس للأرباب موت؟ لم يجب، بل عينه ظلت على الباب وسالت،\nكان هذا الباب ضخما عاليا مصراعه من خشب الأرز الذي جاء به من عند حمبابة لما قتله عرضه نحو ثلاثين ذراعا وذراعان."
+}

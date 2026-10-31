@@ -1,0 +1,563 @@
+{
+  "audio": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\test\\test_000300_045.wav",
+  "metadata": {},
+  "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+  "device": "cpu",
+  "compute_type": "int8",
+  "settings": {
+    "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "beam_size": 5,
+    "vad_filter": false
+  },
+  "detected_language": "ar",
+  "language_probability": 1,
+  "duration": 45.0,
+  "duration_after_vad": 45.0,
+  "elapsed_seconds": 29.347785472869873,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 25.22,
+      "text": "تركوك جلجامش ملكٌ يزدهي أن ليس في الأرض له ندٌ، فأبلغه، فإن يغلب وإن يغلب فإن الشر في الحالين زائل، ثم إن كان رحيماً، هذا الوحش، انكيدو، ثم إن كان رحيماً فهو لا بد سيهوى، قل لجلجامش يرسل لك من معبدي عشتار بغياً، هن في المعبدي لا يصنعن شيئاً،",
+      "avg_logprob": -0.20003409513691128,
+      "compression_ratio": 1.9817351598173516,
+      "no_speech_prob": 0.5705747008323669,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.36,
+          "word": " تركوك",
+          "probability": 0.40209562703967094
+        },
+        {
+          "start": 0.36,
+          "end": 0.98,
+          "word": " جلجامش",
+          "probability": 0.7612443685531616
+        },
+        {
+          "start": 0.98,
+          "end": 2.14,
+          "word": " ملكٌ",
+          "probability": 0.7058147639036179
+        },
+        {
+          "start": 2.14,
+          "end": 2.9,
+          "word": " يزدهي",
+          "probability": 0.8665963709354401
+        },
+        {
+          "start": 2.9,
+          "end": 3.04,
+          "word": " أن",
+          "probability": 0.7588583827018738
+        },
+        {
+          "start": 3.04,
+          "end": 3.38,
+          "word": " ليس",
+          "probability": 0.9846443831920624
+        },
+        {
+          "start": 3.38,
+          "end": 3.52,
+          "word": " في",
+          "probability": 0.9851067066192627
+        },
+        {
+          "start": 3.52,
+          "end": 3.86,
+          "word": " الأرض",
+          "probability": 0.9856130182743073
+        },
+        {
+          "start": 3.86,
+          "end": 4.16,
+          "word": " له",
+          "probability": 0.9853602051734924
+        },
+        {
+          "start": 4.16,
+          "end": 5.26,
+          "word": " ندٌ،",
+          "probability": 0.7154582040384412
+        },
+        {
+          "start": 5.26,
+          "end": 6.54,
+          "word": " فأبلغه،",
+          "probability": 0.8159014234940211
+        },
+        {
+          "start": 6.54,
+          "end": 6.86,
+          "word": " فإن",
+          "probability": 0.9593045115470886
+        },
+        {
+          "start": 6.86,
+          "end": 7.5,
+          "word": " يغلب",
+          "probability": 0.9815937678019205
+        },
+        {
+          "start": 7.5,
+          "end": 7.96,
+          "word": " وإن",
+          "probability": 0.9397124846776327
+        },
+        {
+          "start": 7.96,
+          "end": 8.42,
+          "word": " يغلب",
+          "probability": 0.9573877453804016
+        },
+        {
+          "start": 8.42,
+          "end": 8.76,
+          "word": " فإن",
+          "probability": 0.9577935735384623
+        },
+        {
+          "start": 8.76,
+          "end": 9.06,
+          "word": " الشر",
+          "probability": 0.9762598872184753
+        },
+        {
+          "start": 9.06,
+          "end": 9.18,
+          "word": " في",
+          "probability": 0.7512091398239136
+        },
+        {
+          "start": 9.18,
+          "end": 9.6,
+          "word": " الحالين",
+          "probability": 0.9925821423530579
+        },
+        {
+          "start": 9.6,
+          "end": 11.6,
+          "word": " زائل،",
+          "probability": 0.6880980506539345
+        },
+        {
+          "start": 11.6,
+          "end": 11.84,
+          "word": " ثم",
+          "probability": 0.9896098375320435
+        },
+        {
+          "start": 11.84,
+          "end": 12.02,
+          "word": " إن",
+          "probability": 0.8883824348449707
+        },
+        {
+          "start": 12.02,
+          "end": 12.26,
+          "word": " كان",
+          "probability": 0.9975903034210205
+        },
+        {
+          "start": 12.26,
+          "end": 13.14,
+          "word": " رحيماً،",
+          "probability": 0.8548911412556967
+        },
+        {
+          "start": 13.14,
+          "end": 13.28,
+          "word": " هذا",
+          "probability": 0.614651620388031
+        },
+        {
+          "start": 13.28,
+          "end": 13.78,
+          "word": " الوحش،",
+          "probability": 0.8193507999181747
+        },
+        {
+          "start": 13.78,
+          "end": 14.9,
+          "word": " انكيدو،",
+          "probability": 0.5355395369231701
+        },
+        {
+          "start": 14.9,
+          "end": 15.06,
+          "word": " ثم",
+          "probability": 0.9962857365608215
+        },
+        {
+          "start": 15.06,
+          "end": 15.24,
+          "word": " إن",
+          "probability": 0.9827592372894287
+        },
+        {
+          "start": 15.24,
+          "end": 15.46,
+          "word": " كان",
+          "probability": 0.997433602809906
+        },
+        {
+          "start": 15.46,
+          "end": 16.52,
+          "word": " رحيماً",
+          "probability": 0.9904784440994263
+        },
+        {
+          "start": 16.52,
+          "end": 16.8,
+          "word": " فهو",
+          "probability": 0.8756407101949056
+        },
+        {
+          "start": 16.8,
+          "end": 16.94,
+          "word": " لا",
+          "probability": 0.7725231647491455
+        },
+        {
+          "start": 16.94,
+          "end": 17.16,
+          "word": " بد",
+          "probability": 0.8393728137016296
+        },
+        {
+          "start": 17.16,
+          "end": 18.46,
+          "word": " سيهوى،",
+          "probability": 0.789378767212232
+        },
+        {
+          "start": 18.46,
+          "end": 18.7,
+          "word": " قل",
+          "probability": 0.9728873074054718
+        },
+        {
+          "start": 18.7,
+          "end": 19.48,
+          "word": " لجلجامش",
+          "probability": 0.9399537642796835
+        },
+        {
+          "start": 19.48,
+          "end": 19.96,
+          "word": " يرسل",
+          "probability": 0.9637471735477448
+        },
+        {
+          "start": 19.96,
+          "end": 20.22,
+          "word": " لك",
+          "probability": 0.9851446151733398
+        },
+        {
+          "start": 20.22,
+          "end": 20.46,
+          "word": " من",
+          "probability": 0.9820138812065125
+        },
+        {
+          "start": 20.46,
+          "end": 20.98,
+          "word": " معبدي",
+          "probability": 0.7063932716846466
+        },
+        {
+          "start": 20.98,
+          "end": 21.62,
+          "word": " عشتار",
+          "probability": 0.9704501777887344
+        },
+        {
+          "start": 21.62,
+          "end": 22.84,
+          "word": " بغياً،",
+          "probability": 0.8896471738815308
+        },
+        {
+          "start": 22.84,
+          "end": 23.06,
+          "word": " هن",
+          "probability": 0.9649907946586609
+        },
+        {
+          "start": 23.06,
+          "end": 23.18,
+          "word": " في",
+          "probability": 0.828551709651947
+        },
+        {
+          "start": 23.18,
+          "end": 23.66,
+          "word": " المعبدي",
+          "probability": 0.9529255479574203
+        },
+        {
+          "start": 23.66,
+          "end": 23.78,
+          "word": " لا",
+          "probability": 0.9905005097389221
+        },
+        {
+          "start": 23.78,
+          "end": 24.22,
+          "word": " يصنعن",
+          "probability": 0.8978550553321838
+        },
+        {
+          "start": 24.22,
+          "end": 25.22,
+          "word": " شيئاً،",
+          "probability": 0.8936702966690063
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 25.22,
+      "end": 36.28,
+      "text": "منذ أن صادر القامش مال الناس خافوا أن يُعطون مالاً للبغاية",
+      "avg_logprob": -0.2776769952675731,
+      "compression_ratio": 1.7409638554216869,
+      "no_speech_prob": 0.25694844126701355,
+      "words": [
+        {
+          "start": 25.22,
+          "end": 25.52,
+          "word": " منذ",
+          "probability": 0.868559718132019
+        },
+        {
+          "start": 25.52,
+          "end": 25.64,
+          "word": " أن",
+          "probability": 0.836872398853302
+        },
+        {
+          "start": 25.64,
+          "end": 26.06,
+          "word": " صادر",
+          "probability": 0.9601038297017416
+        },
+        {
+          "start": 26.06,
+          "end": 26.68,
+          "word": " القامش",
+          "probability": 0.6689105778932571
+        },
+        {
+          "start": 26.68,
+          "end": 26.96,
+          "word": " مال",
+          "probability": 0.9431130886077881
+        },
+        {
+          "start": 26.96,
+          "end": 27.36,
+          "word": " الناس",
+          "probability": 0.9694922566413879
+        },
+        {
+          "start": 27.36,
+          "end": 28.1,
+          "word": " خافوا",
+          "probability": 0.9430477221806844
+        },
+        {
+          "start": 28.1,
+          "end": 28.36,
+          "word": " أن",
+          "probability": 0.8007081151008606
+        },
+        {
+          "start": 28.36,
+          "end": 30.36,
+          "word": " يُعطون",
+          "probability": 0.8343602180480957
+        },
+        {
+          "start": 30.36,
+          "end": 30.88,
+          "word": " مالاً",
+          "probability": 0.8204806447029114
+        },
+        {
+          "start": 30.88,
+          "end": 36.28,
+          "word": " للبغاية",
+          "probability": 0.8969151616096497
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 36.28,
+      "end": 38.58,
+      "text": "كلهم يُعطونهن الماء للمال",
+      "avg_logprob": -0.2776769952675731,
+      "compression_ratio": 1.7409638554216869,
+      "no_speech_prob": 0.25694844126701355,
+      "words": [
+        {
+          "start": 36.28,
+          "end": 37.0,
+          "word": " كلهم",
+          "probability": 0.562892735004425
+        },
+        {
+          "start": 37.0,
+          "end": 37.78,
+          "word": " يُعطونهن",
+          "probability": 0.8015579240662711
+        },
+        {
+          "start": 37.78,
+          "end": 38.14,
+          "word": " الماء",
+          "probability": 0.9639964401721954
+        },
+        {
+          "start": 38.14,
+          "end": 38.58,
+          "word": " للمال",
+          "probability": 0.8815918962160746
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 38.58,
+      "end": 42.1,
+      "text": "رجال ربما جادوا على المومس بابن أو بأبناء",
+      "avg_logprob": -0.2776769952675731,
+      "compression_ratio": 1.7409638554216869,
+      "no_speech_prob": 0.25694844126701355,
+      "words": [
+        {
+          "start": 38.58,
+          "end": 39.02,
+          "word": " رجال",
+          "probability": 0.9040705362955729
+        },
+        {
+          "start": 39.02,
+          "end": 39.84,
+          "word": " ربما",
+          "probability": 0.906528651714325
+        },
+        {
+          "start": 39.84,
+          "end": 40.24,
+          "word": " جادوا",
+          "probability": 0.9805919726689657
+        },
+        {
+          "start": 40.24,
+          "end": 40.38,
+          "word": " على",
+          "probability": 0.9483258724212646
+        },
+        {
+          "start": 40.38,
+          "end": 40.86,
+          "word": " المومس",
+          "probability": 0.9225581288337708
+        },
+        {
+          "start": 40.86,
+          "end": 41.2,
+          "word": " بابن",
+          "probability": 0.9431973099708557
+        },
+        {
+          "start": 41.2,
+          "end": 41.5,
+          "word": " أو",
+          "probability": 0.6038874983787537
+        },
+        {
+          "start": 41.5,
+          "end": 42.1,
+          "word": " بأبناء",
+          "probability": 0.8808563113212585
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 42.1,
+      "end": 43.9,
+      "text": "ولكن لا يجدون بمال",
+      "avg_logprob": -0.2776769952675731,
+      "compression_ratio": 1.7409638554216869,
+      "no_speech_prob": 0.25694844126701355,
+      "words": [
+        {
+          "start": 42.1,
+          "end": 42.7,
+          "word": " ولكن",
+          "probability": 0.8230470716953278
+        },
+        {
+          "start": 42.7,
+          "end": 42.84,
+          "word": " لا",
+          "probability": 0.9908782839775085
+        },
+        {
+          "start": 42.84,
+          "end": 43.32,
+          "word": " يجدون",
+          "probability": 0.8344775959849358
+        },
+        {
+          "start": 43.32,
+          "end": 43.9,
+          "word": " بمال",
+          "probability": 0.9926711122194926
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 43.9,
+      "end": 44.98,
+      "text": "هكذا ازداد به",
+      "avg_logprob": -0.2776769952675731,
+      "compression_ratio": 1.7409638554216869,
+      "no_speech_prob": 0.25694844126701355,
+      "words": [
+        {
+          "start": 43.9,
+          "end": 44.46,
+          "word": " هكذا",
+          "probability": 0.9139484365781149
+        },
+        {
+          "start": 44.46,
+          "end": 44.82,
+          "word": " ازداد",
+          "probability": 0.9127998799085617
+        },
+        {
+          "start": 44.82,
+          "end": 44.98,
+          "word": " به",
+          "probability": 0.791254997253418
+        }
+      ]
+    }
+  ],
+  "text": "تركوك جلجامش ملكٌ يزدهي أن ليس في الأرض له ندٌ، فأبلغه، فإن يغلب وإن يغلب فإن الشر في الحالين زائل، ثم إن كان رحيماً، هذا الوحش، انكيدو، ثم إن كان رحيماً فهو لا بد سيهوى، قل لجلجامش يرسل لك من معبدي عشتار بغياً، هن في المعبدي لا يصنعن شيئاً،\nمنذ أن صادر القامش مال الناس خافوا أن يُعطون مالاً للبغاية\nكلهم يُعطونهن الماء للمال\nرجال ربما جادوا على المومس بابن أو بأبناء\nولكن لا يجدون بمال\nهكذا ازداد به"
+}

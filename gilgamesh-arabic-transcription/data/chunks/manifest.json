@@ -1,0 +1,206 @@
+{
+  "source": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\input\\audio\\تميم البرغوثي ملحمه كلكامش.mp3",
+  "duration": 7635.371247,
+  "chunk_seconds": 240.0,
+  "overlap": 2.0,
+  "chunks": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 240.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0000_0000000000_0000240000.wav"
+    },
+    {
+      "index": 1,
+      "start": 238.0,
+      "end": 478.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0001_0000238000_0000478000.wav"
+    },
+    {
+      "index": 2,
+      "start": 476.0,
+      "end": 716.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0002_0000476000_0000716000.wav"
+    },
+    {
+      "index": 3,
+      "start": 714.0,
+      "end": 954.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0003_0000714000_0000954000.wav"
+    },
+    {
+      "index": 4,
+      "start": 952.0,
+      "end": 1192.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0004_0000952000_0001192000.wav"
+    },
+    {
+      "index": 5,
+      "start": 1190.0,
+      "end": 1430.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0005_0001190000_0001430000.wav"
+    },
+    {
+      "index": 6,
+      "start": 1428.0,
+      "end": 1668.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0006_0001428000_0001668000.wav"
+    },
+    {
+      "index": 7,
+      "start": 1666.0,
+      "end": 1906.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0007_0001666000_0001906000.wav"
+    },
+    {
+      "index": 8,
+      "start": 1904.0,
+      "end": 2144.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0008_0001904000_0002144000.wav"
+    },
+    {
+      "index": 9,
+      "start": 2142.0,
+      "end": 2382.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0009_0002142000_0002382000.wav"
+    },
+    {
+      "index": 10,
+      "start": 2380.0,
+      "end": 2620.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0010_0002380000_0002620000.wav"
+    },
+    {
+      "index": 11,
+      "start": 2618.0,
+      "end": 2858.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0011_0002618000_0002858000.wav"
+    },
+    {
+      "index": 12,
+      "start": 2856.0,
+      "end": 3096.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0012_0002856000_0003096000.wav"
+    },
+    {
+      "index": 13,
+      "start": 3094.0,
+      "end": 3334.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0013_0003094000_0003334000.wav"
+    },
+    {
+      "index": 14,
+      "start": 3332.0,
+      "end": 3572.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0014_0003332000_0003572000.wav"
+    },
+    {
+      "index": 15,
+      "start": 3570.0,
+      "end": 3810.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0015_0003570000_0003810000.wav"
+    },
+    {
+      "index": 16,
+      "start": 3808.0,
+      "end": 4048.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0016_0003808000_0004048000.wav"
+    },
+    {
+      "index": 17,
+      "start": 4046.0,
+      "end": 4286.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0017_0004046000_0004286000.wav"
+    },
+    {
+      "index": 18,
+      "start": 4284.0,
+      "end": 4524.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0018_0004284000_0004524000.wav"
+    },
+    {
+      "index": 19,
+      "start": 4522.0,
+      "end": 4762.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0019_0004522000_0004762000.wav"
+    },
+    {
+      "index": 20,
+      "start": 4760.0,
+      "end": 5000.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0020_0004760000_0005000000.wav"
+    },
+    {
+      "index": 21,
+      "start": 4998.0,
+      "end": 5238.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0021_0004998000_0005238000.wav"
+    },
+    {
+      "index": 22,
+      "start": 5236.0,
+      "end": 5476.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0022_0005236000_0005476000.wav"
+    },
+    {
+      "index": 23,
+      "start": 5474.0,
+      "end": 5714.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0023_0005474000_0005714000.wav"
+    },
+    {
+      "index": 24,
+      "start": 5712.0,
+      "end": 5952.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0024_0005712000_0005952000.wav"
+    },
+    {
+      "index": 25,
+      "start": 5950.0,
+      "end": 6190.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0025_0005950000_0006190000.wav"
+    },
+    {
+      "index": 26,
+      "start": 6188.0,
+      "end": 6428.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0026_0006188000_0006428000.wav"
+    },
+    {
+      "index": 27,
+      "start": 6426.0,
+      "end": 6666.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0027_0006426000_0006666000.wav"
+    },
+    {
+      "index": 28,
+      "start": 6664.0,
+      "end": 6904.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0028_0006664000_0006904000.wav"
+    },
+    {
+      "index": 29,
+      "start": 6902.0,
+      "end": 7142.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0029_0006902000_0007142000.wav"
+    },
+    {
+      "index": 30,
+      "start": 7140.0,
+      "end": 7380.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0030_0007140000_0007380000.wav"
+    },
+    {
+      "index": 31,
+      "start": 7378.0,
+      "end": 7618.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0031_0007378000_0007618000.wav"
+    },
+    {
+      "index": 32,
+      "start": 7616.0,
+      "end": 7635.371247,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\chunk_0032_0007616000_0007635371.wav"
+    }
+  ]
+}

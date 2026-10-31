@@ -1,0 +1,403 @@
+{
+  "audio": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_02_0001491460_0001520520.wav",
+  "metadata": {
+    "index": 2,
+    "start": 1491.46,
+    "end": 1520.52,
+    "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_02_0001491460_0001520520.wav",
+    "comparison_score": 74.49,
+    "small_transcript": "بها حتى يرانا شمش إله الشمس حفر البئر وحيداً حاملاً فأسيهما يحفر كاللاطم بالفأسين أو كالممسك الثورة من القرنين يدنيه إلى الأرض فإذا شالب قرنيه أعادة حفر البيئر وعيناه على صاحبه حتى إذا منداح منها"
+  },
+  "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+  "device": "cpu",
+  "compute_type": "int8",
+  "settings": {
+    "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "beam_size": 5,
+    "vad_filter": false
+  },
+  "detected_language": "ar",
+  "language_probability": 1,
+  "duration": 29.06,
+  "duration_after_vad": 29.06,
+  "elapsed_seconds": 27.547445058822632,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.6000000000000005,
+      "text": "قال جلجامش، بئر هاهنا تحفر قربانا، يهاد شمش العالي بها، حتى يرانا شمش إله الشمس.",
+      "avg_logprob": -0.16249242146112766,
+      "compression_ratio": 2.048979591836735,
+      "no_speech_prob": 0.597886323928833,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.36,
+          "word": " قال",
+          "probability": 0.6696300506591797
+        },
+        {
+          "start": 0.36,
+          "end": 1.24,
+          "word": " جلجامش،",
+          "probability": 0.45341756381094456
+        },
+        {
+          "start": 1.24,
+          "end": 1.62,
+          "word": " بئر",
+          "probability": 0.8884781002998352
+        },
+        {
+          "start": 1.62,
+          "end": 2.12,
+          "word": " هاهنا",
+          "probability": 0.5698185563087463
+        },
+        {
+          "start": 2.12,
+          "end": 2.58,
+          "word": " تحفر",
+          "probability": 0.9334787875413895
+        },
+        {
+          "start": 2.58,
+          "end": 3.66,
+          "word": " قربانا،",
+          "probability": 0.7792602732777596
+        },
+        {
+          "start": 3.66,
+          "end": 4.08,
+          "word": " يهاد",
+          "probability": 0.7661839524904887
+        },
+        {
+          "start": 4.08,
+          "end": 4.54,
+          "word": " شمش",
+          "probability": 0.912986139456431
+        },
+        {
+          "start": 4.54,
+          "end": 5.1,
+          "word": " العالي",
+          "probability": 0.9451030294100443
+        },
+        {
+          "start": 5.1,
+          "end": 5.88,
+          "word": " بها،",
+          "probability": 0.7300417174895605
+        },
+        {
+          "start": 5.88,
+          "end": 6.02,
+          "word": " حتى",
+          "probability": 0.9868302643299103
+        },
+        {
+          "start": 6.02,
+          "end": 6.54,
+          "word": " يرانا",
+          "probability": 0.8817587792873383
+        },
+        {
+          "start": 6.54,
+          "end": 6.9,
+          "word": " شمش",
+          "probability": 0.9716586271921793
+        },
+        {
+          "start": 6.9,
+          "end": 7.04,
+          "word": " إله",
+          "probability": 0.7401136159896851
+        },
+        {
+          "start": 7.04,
+          "end": 7.6000000000000005,
+          "word": " الشمس.",
+          "probability": 0.9885270992914835
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 8.42,
+      "end": 18.72,
+      "text": "حفر البئر وحيدا حاملا فأسيهما، يحفر كاللاطم بالفأسين، أو كالممسك الثور من القرنين يدنيه إلى الأرض، فإذا شال بقرنيه أعادة.",
+      "avg_logprob": -0.16249242146112766,
+      "compression_ratio": 2.048979591836735,
+      "no_speech_prob": 0.597886323928833,
+      "words": [
+        {
+          "start": 8.42,
+          "end": 8.84,
+          "word": " حفر",
+          "probability": 0.971984843413035
+        },
+        {
+          "start": 8.84,
+          "end": 9.24,
+          "word": " البئر",
+          "probability": 0.9464497566223145
+        },
+        {
+          "start": 9.24,
+          "end": 9.86,
+          "word": " وحيدا",
+          "probability": 0.9790491759777069
+        },
+        {
+          "start": 9.86,
+          "end": 10.24,
+          "word": " حاملا",
+          "probability": 0.8830428520838419
+        },
+        {
+          "start": 10.24,
+          "end": 11.5,
+          "word": " فأسيهما،",
+          "probability": 0.8944398845945086
+        },
+        {
+          "start": 11.5,
+          "end": 11.96,
+          "word": " يحفر",
+          "probability": 0.9970082342624664
+        },
+        {
+          "start": 11.96,
+          "end": 12.7,
+          "word": " كاللاطم",
+          "probability": 0.9452283024787903
+        },
+        {
+          "start": 12.7,
+          "end": 13.54,
+          "word": " بالفأسين،",
+          "probability": 0.8627015401919683
+        },
+        {
+          "start": 13.54,
+          "end": 13.62,
+          "word": " أو",
+          "probability": 0.9773280620574951
+        },
+        {
+          "start": 13.62,
+          "end": 14.26,
+          "word": " كالممسك",
+          "probability": 0.951533579826355
+        },
+        {
+          "start": 14.26,
+          "end": 14.62,
+          "word": " الثور",
+          "probability": 0.9921513597170512
+        },
+        {
+          "start": 14.62,
+          "end": 14.84,
+          "word": " من",
+          "probability": 0.921826958656311
+        },
+        {
+          "start": 14.84,
+          "end": 15.42,
+          "word": " القرنين",
+          "probability": 0.9563901871442795
+        },
+        {
+          "start": 15.42,
+          "end": 15.96,
+          "word": " يدنيه",
+          "probability": 0.9198876470327377
+        },
+        {
+          "start": 15.96,
+          "end": 16.14,
+          "word": " إلى",
+          "probability": 0.7522898316383362
+        },
+        {
+          "start": 16.14,
+          "end": 16.8,
+          "word": " الأرض،",
+          "probability": 0.8409750858942667
+        },
+        {
+          "start": 16.8,
+          "end": 17.08,
+          "word": " فإذا",
+          "probability": 0.9810964862505595
+        },
+        {
+          "start": 17.08,
+          "end": 17.36,
+          "word": " شال",
+          "probability": 0.9756112098693848
+        },
+        {
+          "start": 17.36,
+          "end": 17.98,
+          "word": " بقرنيه",
+          "probability": 0.916267991065979
+        },
+        {
+          "start": 17.98,
+          "end": 18.72,
+          "word": " أعادة.",
+          "probability": 0.6578774675726891
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 19.18,
+      "end": 26.44,
+      "text": "حفر البئر وعيناه على صاحبه، حتى إذا منداح منها الماء كالمحبوس لما أطلقوه.",
+      "avg_logprob": -0.16249242146112766,
+      "compression_ratio": 2.048979591836735,
+      "no_speech_prob": 0.597886323928833,
+      "words": [
+        {
+          "start": 19.18,
+          "end": 19.72,
+          "word": " حفر",
+          "probability": 0.9924777547518412
+        },
+        {
+          "start": 19.72,
+          "end": 20.14,
+          "word": " البئر",
+          "probability": 0.9959923227628072
+        },
+        {
+          "start": 20.14,
+          "end": 21.0,
+          "word": " وعيناه",
+          "probability": 0.8875402092933655
+        },
+        {
+          "start": 21.0,
+          "end": 21.38,
+          "word": " على",
+          "probability": 0.9600659608840942
+        },
+        {
+          "start": 21.38,
+          "end": 22.6,
+          "word": " صاحبه،",
+          "probability": 0.9581004619598389
+        },
+        {
+          "start": 22.6,
+          "end": 22.98,
+          "word": " حتى",
+          "probability": 0.9866103827953339
+        },
+        {
+          "start": 22.98,
+          "end": 23.28,
+          "word": " إذا",
+          "probability": 0.9916459023952484
+        },
+        {
+          "start": 23.28,
+          "end": 23.82,
+          "word": " منداح",
+          "probability": 0.9035413861274719
+        },
+        {
+          "start": 23.82,
+          "end": 24.14,
+          "word": " منها",
+          "probability": 0.9626006782054901
+        },
+        {
+          "start": 24.14,
+          "end": 24.52,
+          "word": " الماء",
+          "probability": 0.9947725534439087
+        },
+        {
+          "start": 24.52,
+          "end": 25.24,
+          "word": " كالمحبوس",
+          "probability": 0.9548305749893189
+        },
+        {
+          "start": 25.24,
+          "end": 25.58,
+          "word": " لما",
+          "probability": 0.919407457113266
+        },
+        {
+          "start": 25.58,
+          "end": 26.44,
+          "word": " أطلقوه.",
+          "probability": 0.9799227317174276
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 26.44,
+      "end": 28.32,
+      "text": "صاحق القامش وبالشمس",
+      "avg_logprob": -0.2474657556285029,
+      "compression_ratio": 0.9824561403508771,
+      "no_speech_prob": 0.4516340494155884,
+      "words": [
+        {
+          "start": 26.44,
+          "end": 27.24,
+          "word": " صاحق",
+          "probability": 0.8391297658284506
+        },
+        {
+          "start": 27.24,
+          "end": 27.72,
+          "word": " القامش",
+          "probability": 0.8385725418726603
+        },
+        {
+          "start": 27.72,
+          "end": 28.32,
+          "word": " وبالشمس",
+          "probability": 0.9205773949623108
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 28.32,
+      "end": 29.04,
+      "text": "أعيدي صاحق",
+      "avg_logprob": -0.2474657556285029,
+      "compression_ratio": 0.9824561403508771,
+      "no_speech_prob": 0.4516340494155884,
+      "words": [
+        {
+          "start": 28.32,
+          "end": 28.88,
+          "word": " أعيدي",
+          "probability": 0.7309586703777313
+        },
+        {
+          "start": 28.88,
+          "end": 29.04,
+          "word": " صاحق",
+          "probability": 0.884324868520101
+        }
+      ]
+    }
+  ],
+  "text": "قال جلجامش، بئر هاهنا تحفر قربانا، يهاد شمش العالي بها، حتى يرانا شمش إله الشمس.\nحفر البئر وحيدا حاملا فأسيهما، يحفر كاللاطم بالفأسين، أو كالممسك الثور من القرنين يدنيه إلى الأرض، فإذا شال بقرنيه أعادة.\nحفر البئر وعيناه على صاحبه، حتى إذا منداح منها الماء كالمحبوس لما أطلقوه.\nصاحق القامش وبالشمس\nأعيدي صاحق"
+}

@@ -1,0 +1,576 @@
+{
+  "audio": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_03_0002597280_0002652220.wav",
+  "metadata": {
+    "index": 3,
+    "start": 2597.28,
+    "end": 2652.22,
+    "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_03_0002597280_0002652220.wav",
+    "comparison_score": 74.05,
+    "small_transcript": "خلدا بلا عينين تحت الأرض يحيا خبزه فيها الثرى قولي إذا ما ذا سيصنع بي إذا أحببتني فالتكرهيني فهو خير لي وأبقى لا أريدك تفضل ملحمة جلجامش، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي،"
+  },
+  "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+  "device": "cpu",
+  "compute_type": "int8",
+  "settings": {
+    "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "beam_size": 5,
+    "vad_filter": false
+  },
+  "detected_language": "ar",
+  "language_probability": 1,
+  "duration": 54.94,
+  "duration_after_vad": 54.94,
+  "elapsed_seconds": 36.815335273742676,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 9.86,
+      "text": "ماجةٌ للخبز مأدوماً بأرجاس الخطايا والخنة، فمسخته خلداً بلا عينين تحت الأرض يحيا، خبزه فيها الثرى.",
+      "avg_logprob": -0.21098202910305056,
+      "compression_ratio": 1.6633165829145728,
+      "no_speech_prob": 0.6293121576309204,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.82,
+          "word": " ماجةٌ",
+          "probability": 0.6329542584717274
+        },
+        {
+          "start": 0.82,
+          "end": 1.24,
+          "word": " للخبز",
+          "probability": 0.9311282634735107
+        },
+        {
+          "start": 1.24,
+          "end": 2.24,
+          "word": " مأدوماً",
+          "probability": 0.7758738001187643
+        },
+        {
+          "start": 2.24,
+          "end": 2.8,
+          "word": " بأرجاس",
+          "probability": 0.9175213128328323
+        },
+        {
+          "start": 2.8,
+          "end": 3.46,
+          "word": " الخطايا",
+          "probability": 0.9819754064083099
+        },
+        {
+          "start": 3.46,
+          "end": 4.46,
+          "word": " والخنة،",
+          "probability": 0.7163802273571491
+        },
+        {
+          "start": 4.46,
+          "end": 5.08,
+          "word": " فمسخته",
+          "probability": 0.9170709848403931
+        },
+        {
+          "start": 5.08,
+          "end": 5.72,
+          "word": " خلداً",
+          "probability": 0.8851303309202194
+        },
+        {
+          "start": 5.72,
+          "end": 5.88,
+          "word": " بلا",
+          "probability": 0.9700863659381866
+        },
+        {
+          "start": 5.88,
+          "end": 6.38,
+          "word": " عينين",
+          "probability": 0.9793795347213745
+        },
+        {
+          "start": 6.38,
+          "end": 6.74,
+          "word": " تحت",
+          "probability": 0.9450775980949402
+        },
+        {
+          "start": 6.74,
+          "end": 7.08,
+          "word": " الأرض",
+          "probability": 0.982387900352478
+        },
+        {
+          "start": 7.08,
+          "end": 8.04,
+          "word": " يحيا،",
+          "probability": 0.7944502681493759
+        },
+        {
+          "start": 8.04,
+          "end": 8.58,
+          "word": " خبزه",
+          "probability": 0.9690922647714615
+        },
+        {
+          "start": 8.58,
+          "end": 8.92,
+          "word": " فيها",
+          "probability": 0.9760092198848724
+        },
+        {
+          "start": 8.92,
+          "end": 9.86,
+          "word": " الثرى.",
+          "probability": 0.9060907065868378
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 10.04,
+      "end": 20.24,
+      "text": "قولي إذن، ماذا سيصنع به إذا أحببتني؟ فالتكرهيني، فهو خير لي وأبقى. لا أريد اكتفادك.",
+      "avg_logprob": -0.21098202910305056,
+      "compression_ratio": 1.6633165829145728,
+      "no_speech_prob": 0.6293121576309204,
+      "words": [
+        {
+          "start": 10.04,
+          "end": 10.52,
+          "word": " قولي",
+          "probability": 0.9126345117886862
+        },
+        {
+          "start": 10.52,
+          "end": 11.46,
+          "word": " إذن،",
+          "probability": 0.6073362044990063
+        },
+        {
+          "start": 11.46,
+          "end": 11.92,
+          "word": " ماذا",
+          "probability": 0.9669151107470194
+        },
+        {
+          "start": 11.92,
+          "end": 12.58,
+          "word": " سيصنع",
+          "probability": 0.9898457765579224
+        },
+        {
+          "start": 12.58,
+          "end": 12.94,
+          "word": " به",
+          "probability": 0.5625046491622925
+        },
+        {
+          "start": 12.94,
+          "end": 13.42,
+          "word": " إذا",
+          "probability": 0.9750927686691284
+        },
+        {
+          "start": 13.42,
+          "end": 14.7,
+          "word": " أحببتني؟",
+          "probability": 0.9283209783690316
+        },
+        {
+          "start": 14.7,
+          "end": 16.08,
+          "word": " فالتكرهيني،",
+          "probability": 0.8838699460029602
+        },
+        {
+          "start": 16.08,
+          "end": 16.3,
+          "word": " فهو",
+          "probability": 0.994404137134552
+        },
+        {
+          "start": 16.3,
+          "end": 16.8,
+          "word": " خير",
+          "probability": 0.9924812614917755
+        },
+        {
+          "start": 16.8,
+          "end": 17.12,
+          "word": " لي",
+          "probability": 0.3780747056007385
+        },
+        {
+          "start": 17.12,
+          "end": 18.04,
+          "word": " وأبقى.",
+          "probability": 0.9849860370159149
+        },
+        {
+          "start": 18.16,
+          "end": 18.32,
+          "word": " لا",
+          "probability": 0.9747775197029114
+        },
+        {
+          "start": 18.32,
+          "end": 18.68,
+          "word": " أريد",
+          "probability": 0.9878101150194804
+        },
+        {
+          "start": 18.68,
+          "end": 20.24,
+          "word": " اكتفادك.",
+          "probability": 0.5969676549235979
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 25.619999999999997,
+      "end": 30.240000000000002,
+      "text": "جملة جاي فيها كلمة صعبها غيرها بس بسبب الحضور هتعرفوا هي ايش",
+      "avg_logprob": -0.2561638065587694,
+      "compression_ratio": 1.6578947368421053,
+      "no_speech_prob": 0.501945972442627,
+      "words": [
+        {
+          "start": 25.619999999999997,
+          "end": 26.4,
+          "word": " جملة",
+          "probability": 0.7900295853614807
+        },
+        {
+          "start": 26.4,
+          "end": 26.62,
+          "word": " جاي",
+          "probability": 0.9386531114578247
+        },
+        {
+          "start": 26.62,
+          "end": 26.9,
+          "word": " فيها",
+          "probability": 0.9802418947219849
+        },
+        {
+          "start": 26.9,
+          "end": 27.34,
+          "word": " كلمة",
+          "probability": 0.7461015284061432
+        },
+        {
+          "start": 27.34,
+          "end": 27.62,
+          "word": " صعبها",
+          "probability": 0.8153054416179657
+        },
+        {
+          "start": 27.62,
+          "end": 28.1,
+          "word": " غيرها",
+          "probability": 0.9261106252670288
+        },
+        {
+          "start": 28.1,
+          "end": 28.58,
+          "word": " بس",
+          "probability": 0.9806566834449768
+        },
+        {
+          "start": 28.58,
+          "end": 28.96,
+          "word": " بسبب",
+          "probability": 0.9569385846455892
+        },
+        {
+          "start": 28.96,
+          "end": 29.36,
+          "word": " الحضور",
+          "probability": 0.9833264946937561
+        },
+        {
+          "start": 29.36,
+          "end": 29.94,
+          "word": " هتعرفوا",
+          "probability": 0.9338976860046386
+        },
+        {
+          "start": 29.94,
+          "end": 30.04,
+          "word": " هي",
+          "probability": 0.8896335959434509
+        },
+        {
+          "start": 30.04,
+          "end": 30.43,
+          "word": " ايش",
+          "probability": 0.8607837557792664
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 32.78,
+      "end": 39.82,
+      "text": "سمعت عشتار ما قال وهاجت زادها الرفض اشتهاءً واختناقًا دخل",
+      "avg_logprob": -0.2561638065587694,
+      "compression_ratio": 1.6578947368421053,
+      "no_speech_prob": 0.501945972442627,
+      "words": [
+        {
+          "start": 32.78,
+          "end": 33.56,
+          "word": " سمعت",
+          "probability": 0.703363761305809
+        },
+        {
+          "start": 33.56,
+          "end": 34.06,
+          "word": " عشتار",
+          "probability": 0.9642535746097565
+        },
+        {
+          "start": 34.06,
+          "end": 34.28,
+          "word": " ما",
+          "probability": 0.5224888920783997
+        },
+        {
+          "start": 34.28,
+          "end": 34.54,
+          "word": " قال",
+          "probability": 0.9603075385093689
+        },
+        {
+          "start": 34.54,
+          "end": 35.98,
+          "word": " وهاجت",
+          "probability": 0.9524189035097758
+        },
+        {
+          "start": 35.98,
+          "end": 36.54,
+          "word": " زادها",
+          "probability": 0.9853764971097311
+        },
+        {
+          "start": 36.54,
+          "end": 36.88,
+          "word": " الرفض",
+          "probability": 0.8677628437678019
+        },
+        {
+          "start": 36.88,
+          "end": 38.1,
+          "word": " اشتهاءً",
+          "probability": 0.7227712392807006
+        },
+        {
+          "start": 38.1,
+          "end": 39.44,
+          "word": " واختناقًا",
+          "probability": 0.8873364414487567
+        },
+        {
+          "start": 39.44,
+          "end": 39.82,
+          "word": " دخل",
+          "probability": 0.987844705581665
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 39.82,
+      "end": 44.18,
+      "text": "الديوانة آنو وهي تبكي يا عبي خذ لي ثعري انه جلجامشة هذا",
+      "avg_logprob": -0.2561638065587694,
+      "compression_ratio": 1.6578947368421053,
+      "no_speech_prob": 0.501945972442627,
+      "words": [
+        {
+          "start": 39.82,
+          "end": 40.6,
+          "word": " الديوانة",
+          "probability": 0.6776834487915039
+        },
+        {
+          "start": 40.6,
+          "end": 40.84,
+          "word": " آنو",
+          "probability": 0.7872759600480398
+        },
+        {
+          "start": 40.84,
+          "end": 41.06,
+          "word": " وهي",
+          "probability": 0.9388852417469025
+        },
+        {
+          "start": 41.06,
+          "end": 41.48,
+          "word": " تبكي",
+          "probability": 0.9927382618188858
+        },
+        {
+          "start": 41.48,
+          "end": 41.62,
+          "word": " يا",
+          "probability": 0.7984655499458313
+        },
+        {
+          "start": 41.62,
+          "end": 41.96,
+          "word": " عبي",
+          "probability": 0.5926060304045677
+        },
+        {
+          "start": 41.96,
+          "end": 42.24,
+          "word": " خذ",
+          "probability": 0.8991016447544098
+        },
+        {
+          "start": 42.24,
+          "end": 42.38,
+          "word": " لي",
+          "probability": 0.6503860950469971
+        },
+        {
+          "start": 42.38,
+          "end": 42.88,
+          "word": " ثعري",
+          "probability": 0.6668810049692789
+        },
+        {
+          "start": 42.88,
+          "end": 43.24,
+          "word": " انه",
+          "probability": 0.3075505420565605
+        },
+        {
+          "start": 43.24,
+          "end": 43.94,
+          "word": " جلجامشة",
+          "probability": 0.6385881851116816
+        },
+        {
+          "start": 43.94,
+          "end": 44.18,
+          "word": " هذا",
+          "probability": 0.8867447376251221
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 44.18,
+      "end": 52.72,
+      "text": "سبني قال له قال لها آنو سمعنا لم يقل الا صوابا انت يا عشتار صعبة",
+      "avg_logprob": -0.2623482555956454,
+      "compression_ratio": 1.3571428571428572,
+      "no_speech_prob": 0.6651771068572998,
+      "words": [
+        {
+          "start": 44.18,
+          "end": 45.06,
+          "word": " سبني",
+          "probability": 0.7155042688051859
+        },
+        {
+          "start": 45.06,
+          "end": 45.48,
+          "word": " قال",
+          "probability": 0.7631288766860962
+        },
+        {
+          "start": 45.48,
+          "end": 45.86,
+          "word": " له",
+          "probability": 0.9468339681625366
+        },
+        {
+          "start": 45.86,
+          "end": 46.4,
+          "word": " قال",
+          "probability": 0.9692180156707764
+        },
+        {
+          "start": 46.4,
+          "end": 46.82,
+          "word": " لها",
+          "probability": 0.9587480425834656
+        },
+        {
+          "start": 46.82,
+          "end": 47.16,
+          "word": " آنو",
+          "probability": 0.8019970258076986
+        },
+        {
+          "start": 47.16,
+          "end": 48.24,
+          "word": " سمعنا",
+          "probability": 0.9297890663146973
+        },
+        {
+          "start": 48.24,
+          "end": 48.54,
+          "word": " لم",
+          "probability": 0.9755396842956543
+        },
+        {
+          "start": 48.54,
+          "end": 48.96,
+          "word": " يقل",
+          "probability": 0.925121009349823
+        },
+        {
+          "start": 48.96,
+          "end": 49.18,
+          "word": " الا",
+          "probability": 0.49933362007141113
+        },
+        {
+          "start": 49.18,
+          "end": 50.34,
+          "word": " صوابا",
+          "probability": 0.9754509925842285
+        },
+        {
+          "start": 50.34,
+          "end": 50.72,
+          "word": " انت",
+          "probability": 0.6830385625362396
+        },
+        {
+          "start": 50.72,
+          "end": 50.88,
+          "word": " يا",
+          "probability": 0.9454818367958069
+        },
+        {
+          "start": 50.88,
+          "end": 51.82,
+          "word": " عشتار",
+          "probability": 0.9677034020423889
+        },
+        {
+          "start": 51.82,
+          "end": 52.72,
+          "word": " صعبة",
+          "probability": 0.8525523543357849
+        }
+      ]
+    }
+  ],
+  "text": "ماجةٌ للخبز مأدوماً بأرجاس الخطايا والخنة، فمسخته خلداً بلا عينين تحت الأرض يحيا، خبزه فيها الثرى.\nقولي إذن، ماذا سيصنع به إذا أحببتني؟ فالتكرهيني، فهو خير لي وأبقى. لا أريد اكتفادك.\nجملة جاي فيها كلمة صعبها غيرها بس بسبب الحضور هتعرفوا هي ايش\nسمعت عشتار ما قال وهاجت زادها الرفض اشتهاءً واختناقًا دخل\nالديوانة آنو وهي تبكي يا عبي خذ لي ثعري انه جلجامشة هذا\nسبني قال له قال لها آنو سمعنا لم يقل الا صوابا انت يا عشتار صعبة"
+}

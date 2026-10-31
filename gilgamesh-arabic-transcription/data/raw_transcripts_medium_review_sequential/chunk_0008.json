@@ -1,0 +1,447 @@
+{
+  "audio": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_08_0006533840_0006570000.wav",
+  "metadata": {
+    "index": 8,
+    "start": 6533.84,
+    "end": 6570.0,
+    "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_08_0006533840_0006570000.wav",
+    "comparison_score": 77.3,
+    "small_transcript": "صغير من دموع فوق وجه سال سيلا وتطلعت يمينا وشمالا لم أجد أرضا ولكن في انتصاف الظهري أحسست استضاما جبل أمسك بالفلك فأرست ثم أرسلت السنون عاد لما لم يجد أرضا ومأوى ثم أرسلت غرابا"
+  },
+  "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+  "device": "cpu",
+  "compute_type": "int8",
+  "settings": {
+    "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "beam_size": 5,
+    "vad_filter": false
+  },
+  "detected_language": "ar",
+  "language_probability": 1,
+  "duration": 36.16,
+  "duration_after_vad": 36.16,
+  "elapsed_seconds": 27.254544734954834,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 11.0,
+      "text": "كوة في السقف صارت شمساً الأولى، وطوفان صغير من دموع فوق وجه سال سيلاً، وتطلعت يميناً وشمالاً لم أجد أرضاً.",
+      "avg_logprob": -0.1906556862641156,
+      "compression_ratio": 1.7087378640776698,
+      "no_speech_prob": 0.7366544008255005,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 1.48,
+          "word": " كوة",
+          "probability": 0.5304511934518814
+        },
+        {
+          "start": 1.48,
+          "end": 1.74,
+          "word": " في",
+          "probability": 0.8653811812400818
+        },
+        {
+          "start": 1.74,
+          "end": 2.64,
+          "word": " السقف",
+          "probability": 0.9884418646494547
+        },
+        {
+          "start": 2.64,
+          "end": 3.08,
+          "word": " صارت",
+          "probability": 0.9523707429567972
+        },
+        {
+          "start": 3.08,
+          "end": 3.56,
+          "word": " شمساً",
+          "probability": 0.824774232506752
+        },
+        {
+          "start": 3.56,
+          "end": 4.56,
+          "word": " الأولى،",
+          "probability": 0.7048588441684842
+        },
+        {
+          "start": 4.56,
+          "end": 5.14,
+          "word": " وطوفان",
+          "probability": 0.9088064730167389
+        },
+        {
+          "start": 5.14,
+          "end": 5.74,
+          "word": " صغير",
+          "probability": 0.871898372968038
+        },
+        {
+          "start": 5.74,
+          "end": 5.98,
+          "word": " من",
+          "probability": 0.9150402545928955
+        },
+        {
+          "start": 5.98,
+          "end": 6.44,
+          "word": " دموع",
+          "probability": 0.9968445301055908
+        },
+        {
+          "start": 6.44,
+          "end": 6.86,
+          "word": " فوق",
+          "probability": 0.9734199345111847
+        },
+        {
+          "start": 6.86,
+          "end": 7.28,
+          "word": " وجه",
+          "probability": 0.9949721395969391
+        },
+        {
+          "start": 7.28,
+          "end": 7.74,
+          "word": " سال",
+          "probability": 0.8655554056167603
+        },
+        {
+          "start": 7.74,
+          "end": 8.72,
+          "word": " سيلاً،",
+          "probability": 0.7984539151191712
+        },
+        {
+          "start": 8.72,
+          "end": 9.3,
+          "word": " وتطلعت",
+          "probability": 0.8621755391359329
+        },
+        {
+          "start": 9.3,
+          "end": 9.86,
+          "word": " يميناً",
+          "probability": 0.9139305830001831
+        },
+        {
+          "start": 9.86,
+          "end": 10.5,
+          "word": " وشمالاً",
+          "probability": 0.9387957056363424
+        },
+        {
+          "start": 10.5,
+          "end": 10.64,
+          "word": " لم",
+          "probability": 0.8680371046066284
+        },
+        {
+          "start": 10.64,
+          "end": 10.9,
+          "word": " أجد",
+          "probability": 0.9820823272069296
+        },
+        {
+          "start": 10.9,
+          "end": 11.36,
+          "word": " أرضاً.",
+          "probability": 0.9692390412092209
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 11.86,
+      "end": 21.9,
+      "text": "ولكن في انتصاف الظهر أحسست استضاماً جبل أمسك بالفلك فأرست. سبع ليلات طوال بقيت لم تتحرك.",
+      "avg_logprob": -0.1906556862641156,
+      "compression_ratio": 1.7087378640776698,
+      "no_speech_prob": 0.7366544008255005,
+      "words": [
+        {
+          "start": 11.86,
+          "end": 12.3,
+          "word": " ولكن",
+          "probability": 0.9430724084377289
+        },
+        {
+          "start": 12.3,
+          "end": 12.44,
+          "word": " في",
+          "probability": 0.9562349319458008
+        },
+        {
+          "start": 12.44,
+          "end": 12.86,
+          "word": " انتصاف",
+          "probability": 0.9898934215307236
+        },
+        {
+          "start": 12.86,
+          "end": 14.38,
+          "word": " الظهر",
+          "probability": 0.7921116948127747
+        },
+        {
+          "start": 14.38,
+          "end": 14.82,
+          "word": " أحسست",
+          "probability": 0.9007876664400101
+        },
+        {
+          "start": 14.82,
+          "end": 16.22,
+          "word": " استضاماً",
+          "probability": 0.8564485788345337
+        },
+        {
+          "start": 16.22,
+          "end": 16.6,
+          "word": " جبل",
+          "probability": 0.8101948499679565
+        },
+        {
+          "start": 16.6,
+          "end": 17.66,
+          "word": " أمسك",
+          "probability": 0.9639401137828827
+        },
+        {
+          "start": 17.66,
+          "end": 18.24,
+          "word": " بالفلك",
+          "probability": 0.9337197542190552
+        },
+        {
+          "start": 18.24,
+          "end": 19.0,
+          "word": " فأرست.",
+          "probability": 0.9132750928401947
+        },
+        {
+          "start": 19.52,
+          "end": 19.82,
+          "word": " سبع",
+          "probability": 0.8980571627616882
+        },
+        {
+          "start": 19.82,
+          "end": 20.18,
+          "word": " ليلات",
+          "probability": 0.93327263991038
+        },
+        {
+          "start": 20.18,
+          "end": 20.6,
+          "word": " طوال",
+          "probability": 0.9560148119926453
+        },
+        {
+          "start": 20.6,
+          "end": 21.02,
+          "word": " بقيت",
+          "probability": 0.682628850142161
+        },
+        {
+          "start": 21.02,
+          "end": 21.16,
+          "word": " لم",
+          "probability": 0.9932855367660522
+        },
+        {
+          "start": 21.16,
+          "end": 21.9,
+          "word": " تتحرك.",
+          "probability": 0.9864272922277451
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 21.9,
+      "end": 33.900000000000006,
+      "text": "فمن الكوة أرسلت حماماً عاداً لما لم يجد أرضاً ومأوى ثم أرسلت السنون عاداً لما لم يجد أرضاً ومأوى ثم أرسلت غراباً لم يعد أدركت أن الأرض عادت",
+      "avg_logprob": -0.11580763855478265,
+      "compression_ratio": 2.1092436974789917,
+      "no_speech_prob": 0.31472277641296387,
+      "words": [
+        {
+          "start": 21.9,
+          "end": 22.5,
+          "word": " فمن",
+          "probability": 0.8169210255146027
+        },
+        {
+          "start": 22.5,
+          "end": 22.96,
+          "word": " الكوة",
+          "probability": 0.888552745183309
+        },
+        {
+          "start": 22.96,
+          "end": 23.42,
+          "word": " أرسلت",
+          "probability": 0.9203121662139893
+        },
+        {
+          "start": 23.42,
+          "end": 24.44,
+          "word": " حماماً",
+          "probability": 0.901123559474945
+        },
+        {
+          "start": 24.44,
+          "end": 24.82,
+          "word": " عاداً",
+          "probability": 0.6619151905179024
+        },
+        {
+          "start": 24.82,
+          "end": 25.0,
+          "word": " لما",
+          "probability": 0.93524569272995
+        },
+        {
+          "start": 25.0,
+          "end": 25.16,
+          "word": " لم",
+          "probability": 0.992146909236908
+        },
+        {
+          "start": 25.16,
+          "end": 25.46,
+          "word": " يجد",
+          "probability": 0.9952271580696106
+        },
+        {
+          "start": 25.46,
+          "end": 25.84,
+          "word": " أرضاً",
+          "probability": 0.9622696042060852
+        },
+        {
+          "start": 25.84,
+          "end": 26.32,
+          "word": " ومأوى",
+          "probability": 0.8767605066299439
+        },
+        {
+          "start": 26.32,
+          "end": 26.6,
+          "word": " ثم",
+          "probability": 0.972221851348877
+        },
+        {
+          "start": 26.6,
+          "end": 27.02,
+          "word": " أرسلت",
+          "probability": 0.9916386127471923
+        },
+        {
+          "start": 27.02,
+          "end": 27.62,
+          "word": " السنون",
+          "probability": 0.9696338772773743
+        },
+        {
+          "start": 27.62,
+          "end": 28.3,
+          "word": " عاداً",
+          "probability": 0.9308968931436539
+        },
+        {
+          "start": 28.3,
+          "end": 28.48,
+          "word": " لما",
+          "probability": 0.9869334399700165
+        },
+        {
+          "start": 28.48,
+          "end": 28.64,
+          "word": " لم",
+          "probability": 0.9965208768844604
+        },
+        {
+          "start": 28.64,
+          "end": 28.92,
+          "word": " يجد",
+          "probability": 0.9988868832588196
+        },
+        {
+          "start": 28.92,
+          "end": 29.3,
+          "word": " أرضاً",
+          "probability": 0.9947175532579422
+        },
+        {
+          "start": 29.3,
+          "end": 29.96,
+          "word": " ومأوى",
+          "probability": 0.9984680652618408
+        },
+        {
+          "start": 29.96,
+          "end": 30.28,
+          "word": " ثم",
+          "probability": 0.9980069696903229
+        },
+        {
+          "start": 30.28,
+          "end": 30.76,
+          "word": " أرسلت",
+          "probability": 0.9971203327178955
+        },
+        {
+          "start": 30.76,
+          "end": 31.36,
+          "word": " غراباً",
+          "probability": 0.9324931383132935
+        },
+        {
+          "start": 31.36,
+          "end": 31.48,
+          "word": " لم",
+          "probability": 0.9861356019973755
+        },
+        {
+          "start": 31.48,
+          "end": 31.88,
+          "word": " يعد",
+          "probability": 0.9307796061038971
+        },
+        {
+          "start": 31.88,
+          "end": 32.7,
+          "word": " أدركت",
+          "probability": 0.9714338779449463
+        },
+        {
+          "start": 32.7,
+          "end": 32.98,
+          "word": " أن",
+          "probability": 0.9727981686592102
+        },
+        {
+          "start": 32.98,
+          "end": 33.32,
+          "word": " الأرض",
+          "probability": 0.9859135448932648
+        },
+        {
+          "start": 33.32,
+          "end": 33.900000000000006,
+          "word": " عادت",
+          "probability": 0.9778111775716146
+        }
+      ]
+    }
+  ],
+  "text": "كوة في السقف صارت شمساً الأولى، وطوفان صغير من دموع فوق وجه سال سيلاً، وتطلعت يميناً وشمالاً لم أجد أرضاً.\nولكن في انتصاف الظهر أحسست استضاماً جبل أمسك بالفلك فأرست. سبع ليلات طوال بقيت لم تتحرك.\nفمن الكوة أرسلت حماماً عاداً لما لم يجد أرضاً ومأوى ثم أرسلت السنون عاداً لما لم يجد أرضاً ومأوى ثم أرسلت غراباً لم يعد أدركت أن الأرض عادت"
+}

@@ -1,0 +1,54 @@
+{
+  "source": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\input\\audio\\تميم البرغوثي ملحمه كلكامش.mp3",
+  "duration": 7635.371247,
+  "chunks": [
+    {
+      "index": 0,
+      "start": 1259.88,
+      "end": 1296.14,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_00_0001259880_0001296140.wav",
+      "comparison_score": 70.79,
+      "small_transcript": "خفيفا عند عينيها أعدت أين إنكيده؟ حبيبي يبن أارورا وقالت إذرأته إنك ابني اليوم فحم الليلة ابني طوقته زهر كهان المعابد قطرت تمثال دمعا غاسلا خصلات إنكيد وعمادا وهو ساجد يبن أارورا أحبك ليكن خلوة"
+    },
+    {
+      "index": 1,
+      "start": 1909.12,
+      "end": 1946.18,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_01_0001909120_0001946180.wav",
+      "comparison_score": 66.67,
+      "small_transcript": "هالة واحدة، ضربال هالة بالفأسين حتى فلقت، قتل بنتاً لحمبابة تحميه، فناد أنتما قجئتما في ثار بنت، هكما أدركتما ثاركما، فلتتركاني، لم يجيباه، فنادى ما لثأر جئتماني إنما العدوان محضن تبغيان الأرز نهبا أو تريدان"
+    },
+    {
+      "index": 2,
+      "start": 2642.22,
+      "end": 2652.82,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_02_0002642220_0002652820.wav",
+      "comparison_score": 55.0,
+      "small_transcript": "تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم"
+    },
+    {
+      "index": 3,
+      "start": 3325.7,
+      "end": 3352.78,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_03_0003325700_0003352780.wav",
+      "comparison_score": 72.73,
+      "small_transcript": "بغياً لم يكن سما ولكن يكون سمًّا، ولكن قتلوني، أختي يا ضبيّة فلتًا طضريني، لو قدرت الآن أن أعدوا عدود، أختي يا ضبيّة عودي، أبصري وجهي مليًّا، أبصريني وعرفيني، أنا من فكك من أشراكهم قبل"
+    },
+    {
+      "index": 4,
+      "start": 4545.84,
+      "end": 4580.68,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_04_0004545840_0004580680.wav",
+      "comparison_score": 70.95,
+      "small_transcript": "وابن معشر. سلام على الموحود والأهلدونه على صادق أربابه يكذبونه وددت إدادا كاملا أن أكونه هو الوحش أطفال الورا يأمنونه ويصطو على رب السم المتكبر ومال إله إن آلهتي أنا لصوصا عبدناها بقلة عقلنا سأدرك"
+    },
+    {
+      "index": 5,
+      "start": 7373.0,
+      "end": 7397.02,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_05_0007373000_0007397020.wav",
+      "comparison_score": 74.47,
+      "small_transcript": "العين مرت في طويل العشبي أفعا رأيها، دخلت في الرحل تبغي نبتة الخلدي طعاما، فزك المجنوني فزن أرشنابي، صائحا ويل عليها، كما عني سيدي، أمسك بها لم يتحرك قطغ الجامش، لم يعلم لماذا، لم يكن"
+    }
+  ]
+}

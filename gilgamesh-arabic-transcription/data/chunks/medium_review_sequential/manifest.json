@@ -1,0 +1,78 @@
+{
+  "source": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\input\\audio\\تميم البرغوثي ملحمه كلكامش.mp3",
+  "duration": 7635.371247,
+  "chunks": [
+    {
+      "index": 0,
+      "start": 830.08,
+      "end": 884.92,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_00_0000830080_0000884920.wav",
+      "comparison_score": 76.37,
+      "small_transcript": "غدارا فنادى إن أمر الليلة الأولى من الليلة مبطل أكمل أعراسكم والتشكر ملكا عفوا عندما يقدر أن يبطش فيكم يطفض ضل مرحباً مرحباً مرحباً مرحباً مرحباً مرحباً مرحباً مرحباً مرحباً مرحباً مرحباً كان جلجامش يبغي"
+    },
+    {
+      "index": 1,
+      "start": 1148.02,
+      "end": 1177.78,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_01_0001148020_0001177780.wav",
+      "comparison_score": 77.33,
+      "small_transcript": "ما يلبسه الناس لحرب الناس جلبا والتقاءا للمنايا هكذا حال البرايا فتراهم يتقون الشيء أبات يجلبونه قال إنكيد إذا لم تكن الحرب ارتطاما بين جسمين سخينين فلا تشفي غليلا إنما الحرب كلام بين جسمين إذا"
+    },
+    {
+      "index": 2,
+      "start": 1491.46,
+      "end": 1520.52,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_02_0001491460_0001520520.wav",
+      "comparison_score": 74.49,
+      "small_transcript": "بها حتى يرانا شمش إله الشمس حفر البئر وحيداً حاملاً فأسيهما يحفر كاللاطم بالفأسين أو كالممسك الثورة من القرنين يدنيه إلى الأرض فإذا شالب قرنيه أعادة حفر البيئر وعيناه على صاحبه حتى إذا منداح منها"
+    },
+    {
+      "index": 3,
+      "start": 2597.28,
+      "end": 2652.22,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_03_0002597280_0002652220.wav",
+      "comparison_score": 74.05,
+      "small_transcript": "خلدا بلا عينين تحت الأرض يحيا خبزه فيها الثرى قولي إذا ما ذا سيصنع بي إذا أحببتني فالتكرهيني فهو خير لي وأبقى لا أريدك تفضل ملحمة جلجامش، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي،"
+    },
+    {
+      "index": 4,
+      "start": 2642.22,
+      "end": 2652.82,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_04_0002642220_0002652820.wav",
+      "comparison_score": 42.75,
+      "small_transcript": "تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم"
+    },
+    {
+      "index": 5,
+      "start": 3360.7,
+      "end": 3388.08,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_05_0003360700_0003388080.wav",
+      "comparison_score": 79.58,
+      "small_transcript": "يا صديقي ليس ذا وقت المراهي سوف تنجو لما لا تسمع قولي ليس للأرباب موت لم يجب بل عينه ظلت على الباب وسالت كان هذا الباب ضخماً عالياً مصراعه من خشب الأرز الذي جاء به"
+    },
+    {
+      "index": 6,
+      "start": 5223.32,
+      "end": 5271.76,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_06_0005223320_0005271760.wav",
+      "comparison_score": 70.39,
+      "small_transcript": "وجد الخلد الذي يكمن في غمازة الطفل كموناً ثم أخرجه كما ينشر نساج حرير ثوبه كي يتملة حسنه قلق الجامش، إني ذاهب، مهما تقوله، فسدور، هي سمحات، وعشتار، وإني لن أروض، عسل ابصر فيه السم"
+    },
+    {
+      "index": 7,
+      "start": 5938.12,
+      "end": 5986.12,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_07_0005938120_0005986120.wav",
+      "comparison_score": 76.12,
+      "small_transcript": "بينهم ربا بلا عبد ولا خوف ولا قتلة أجبنا ولك العرفان مننا كنت ملكاً لشرباق التي تعرفها، شابت وشابت وصطها آلهة تُعبد فيها، كن أيام رخائن، كل ملك يحسب الأيام رخائن، والملك بالناس فلا بد"
+    },
+    {
+      "index": 8,
+      "start": 6533.84,
+      "end": 6570.0,
+      "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_08_0006533840_0006570000.wav",
+      "comparison_score": 77.3,
+      "small_transcript": "صغير من دموع فوق وجه سال سيلا وتطلعت يمينا وشمالا لم أجد أرضا ولكن في انتصاف الظهري أحسست استضاما جبل أمسك بالفلك فأرست ثم أرسلت السنون عاد لما لم يجد أرضا ومأوى ثم أرسلت غرابا"
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "audio": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_01_0001148020_0001177780.wav",
+  "metadata": {
+    "index": 1,
+    "start": 1148.02,
+    "end": 1177.78,
+    "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review_sequential\\review_01_0001148020_0001177780.wav",
+    "comparison_score": 77.33,
+    "small_transcript": "ما يلبسه الناس لحرب الناس جلبا والتقاءا للمنايا هكذا حال البرايا فتراهم يتقون الشيء أبات يجلبونه قال إنكيد إذا لم تكن الحرب ارتطاما بين جسمين سخينين فلا تشفي غليلا إنما الحرب كلام بين جسمين إذا"
+  },
+  "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+  "device": "cpu",
+  "compute_type": "int8",
+  "settings": {
+    "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "beam_size": 5,
+    "vad_filter": false
+  },
+  "detected_language": "ar",
+  "language_probability": 1,
+  "duration": 29.76,
+  "duration_after_vad": 29.76,
+  "elapsed_seconds": 21.131744146347046,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 14.5,
+      "text": "مش عارف شو اسلاح، فأدناه من الأثؤث والأدرعي، هذا قال جلجامش ما يلبسه الناس لحرب الناس جلباً واتقاءاً للمناية، هكذا حال البرايا فتراهم يتقون الشيء أباة يجلبونه.",
+      "avg_logprob": -0.21268102890727195,
+      "compression_ratio": 2.024822695035461,
+      "no_speech_prob": 0.2508063018321991,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.12,
+          "word": " مش",
+          "probability": 0.4099180996417999
+        },
+        {
+          "start": 0.12,
+          "end": 0.34,
+          "word": " عارف",
+          "probability": 0.982133944829305
+        },
+        {
+          "start": 0.34,
+          "end": 0.44,
+          "word": " شو",
+          "probability": 0.944006085395813
+        },
+        {
+          "start": 0.44,
+          "end": 1.84,
+          "word": " اسلاح،",
+          "probability": 0.5531172051560134
+        },
+        {
+          "start": 1.84,
+          "end": 2.4,
+          "word": " فأدناه",
+          "probability": 0.8461192131042481
+        },
+        {
+          "start": 2.4,
+          "end": 2.6,
+          "word": " من",
+          "probability": 0.9852839708328247
+        },
+        {
+          "start": 2.6,
+          "end": 3.16,
+          "word": " الأثؤث",
+          "probability": 0.5886039361357689
+        },
+        {
+          "start": 3.16,
+          "end": 3.92,
+          "word": " والأدرعي،",
+          "probability": 0.6829495217118945
+        },
+        {
+          "start": 3.92,
+          "end": 4.16,
+          "word": " هذا",
+          "probability": 0.9401280879974365
+        },
+        {
+          "start": 4.16,
+          "end": 4.46,
+          "word": " قال",
+          "probability": 0.8976231813430786
+        },
+        {
+          "start": 4.46,
+          "end": 5.1,
+          "word": " جلجامش",
+          "probability": 0.565428176522255
+        },
+        {
+          "start": 5.1,
+          "end": 5.3,
+          "word": " ما",
+          "probability": 0.9344773888587952
+        },
+        {
+          "start": 5.3,
+          "end": 5.86,
+          "word": " يلبسه",
+          "probability": 0.9880561083555222
+        },
+        {
+          "start": 5.86,
+          "end": 6.24,
+          "word": " الناس",
+          "probability": 0.9865796566009521
+        },
+        {
+          "start": 6.24,
+          "end": 6.64,
+          "word": " لحرب",
+          "probability": 0.9808563987414042
+        },
+        {
+          "start": 6.64,
+          "end": 7.08,
+          "word": " الناس",
+          "probability": 0.9993680715560913
+        },
+        {
+          "start": 7.08,
+          "end": 8.24,
+          "word": " جلباً",
+          "probability": 0.8526301383972168
+        },
+        {
+          "start": 8.24,
+          "end": 9.18,
+          "word": " واتقاءاً",
+          "probability": 0.773631731669108
+        },
+        {
+          "start": 9.18,
+          "end": 10.46,
+          "word": " للمناية،",
+          "probability": 0.7620186984539032
+        },
+        {
+          "start": 10.46,
+          "end": 10.8,
+          "word": " هكذا",
+          "probability": 0.9666772882143656
+        },
+        {
+          "start": 10.8,
+          "end": 11.14,
+          "word": " حال",
+          "probability": 0.9960785210132599
+        },
+        {
+          "start": 11.14,
+          "end": 11.78,
+          "word": " البرايا",
+          "probability": 0.7465391010046005
+        },
+        {
+          "start": 11.78,
+          "end": 12.48,
+          "word": " فتراهم",
+          "probability": 0.9102671444416046
+        },
+        {
+          "start": 12.48,
+          "end": 13.08,
+          "word": " يتقون",
+          "probability": 0.9798275232315063
+        },
+        {
+          "start": 13.08,
+          "end": 13.54,
+          "word": " الشيء",
+          "probability": 0.9162782033284506
+        },
+        {
+          "start": 13.54,
+          "end": 13.78,
+          "word": " أباة",
+          "probability": 0.6594263464212418
+        },
+        {
+          "start": 13.78,
+          "end": 14.5,
+          "word": " يجلبونه.",
+          "probability": 0.8934914827346802
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 15.54,
+      "end": 29.7,
+      "text": "قال إنكيدو، إذا لم تكن الحرب ارتطاماً بين جسمين سخينين فلا تشفي غليلاً، إنما الحرب كلام بين جسمين إذا ما لم يحس الخصم مني غضبي عند لقانا لم أجد للحرب معنى.",
+      "avg_logprob": -0.21268102890727195,
+      "compression_ratio": 2.024822695035461,
+      "no_speech_prob": 0.2508063018321991,
+      "words": [
+        {
+          "start": 15.54,
+          "end": 15.74,
+          "word": " قال",
+          "probability": 0.9552311897277832
+        },
+        {
+          "start": 15.74,
+          "end": 16.96,
+          "word": " إنكيدو،",
+          "probability": 0.5709111601114273
+        },
+        {
+          "start": 16.96,
+          "end": 17.22,
+          "word": " إذا",
+          "probability": 0.9193406403064728
+        },
+        {
+          "start": 17.22,
+          "end": 17.46,
+          "word": " لم",
+          "probability": 0.9939430356025696
+        },
+        {
+          "start": 17.46,
+          "end": 17.76,
+          "word": " تكن",
+          "probability": 0.9862250983715057
+        },
+        {
+          "start": 17.76,
+          "end": 18.22,
+          "word": " الحرب",
+          "probability": 0.9985348284244537
+        },
+        {
+          "start": 18.22,
+          "end": 19.0,
+          "word": " ارتطاماً",
+          "probability": 0.8706407646338145
+        },
+        {
+          "start": 19.0,
+          "end": 19.26,
+          "word": " بين",
+          "probability": 0.9697856307029724
+        },
+        {
+          "start": 19.26,
+          "end": 19.88,
+          "word": " جسمين",
+          "probability": 0.9545628627141317
+        },
+        {
+          "start": 19.88,
+          "end": 20.58,
+          "word": " سخينين",
+          "probability": 0.9771614819765091
+        },
+        {
+          "start": 20.58,
+          "end": 20.9,
+          "word": " فلا",
+          "probability": 0.9662248492240906
+        },
+        {
+          "start": 20.9,
+          "end": 21.3,
+          "word": " تشفي",
+          "probability": 0.9867536028226217
+        },
+        {
+          "start": 21.3,
+          "end": 22.32,
+          "word": " غليلاً،",
+          "probability": 0.8847508430480957
+        },
+        {
+          "start": 22.32,
+          "end": 22.64,
+          "word": " إنما",
+          "probability": 0.9307551980018616
+        },
+        {
+          "start": 22.64,
+          "end": 23.0,
+          "word": " الحرب",
+          "probability": 0.9981485605239868
+        },
+        {
+          "start": 23.0,
+          "end": 23.6,
+          "word": " كلام",
+          "probability": 0.9862109124660492
+        },
+        {
+          "start": 23.6,
+          "end": 23.92,
+          "word": " بين",
+          "probability": 0.6403685808181763
+        },
+        {
+          "start": 23.92,
+          "end": 24.46,
+          "word": " جسمين",
+          "probability": 0.9941985408465067
+        },
+        {
+          "start": 24.46,
+          "end": 24.82,
+          "word": " إذا",
+          "probability": 0.8582459390163422
+        },
+        {
+          "start": 24.82,
+          "end": 24.98,
+          "word": " ما",
+          "probability": 0.9939559102058411
+        },
+        {
+          "start": 24.98,
+          "end": 25.18,
+          "word": " لم",
+          "probability": 0.9960836172103882
+        },
+        {
+          "start": 25.18,
+          "end": 25.66,
+          "word": " يحس",
+          "probability": 0.9784235159556071
+        },
+        {
+          "start": 25.66,
+          "end": 26.2,
+          "word": " الخصم",
+          "probability": 0.9352389574050903
+        },
+        {
+          "start": 26.2,
+          "end": 26.62,
+          "word": " مني",
+          "probability": 0.8671464323997498
+        },
+        {
+          "start": 26.62,
+          "end": 27.08,
+          "word": " غضبي",
+          "probability": 0.9394548535346985
+        },
+        {
+          "start": 27.08,
+          "end": 27.38,
+          "word": " عند",
+          "probability": 0.9856115579605103
+        },
+        {
+          "start": 27.38,
+          "end": 28.24,
+          "word": " لقانا",
+          "probability": 0.8637606650590897
+        },
+        {
+          "start": 28.24,
+          "end": 28.4,
+          "word": " لم",
+          "probability": 0.7296025156974792
+        },
+        {
+          "start": 28.4,
+          "end": 28.72,
+          "word": " أجد",
+          "probability": 0.9643151561419169
+        },
+        {
+          "start": 28.72,
+          "end": 29.14,
+          "word": " للحرب",
+          "probability": 0.9218139251073202
+        },
+        {
+          "start": 29.14,
+          "end": 29.7,
+          "word": " معنى.",
+          "probability": 0.8529443144798279
+        }
+      ]
+    }
+  ],
+  "text": "مش عارف شو اسلاح، فأدناه من الأثؤث والأدرعي، هذا قال جلجامش ما يلبسه الناس لحرب الناس جلباً واتقاءاً للمناية، هكذا حال البرايا فتراهم يتقون الشيء أباة يجلبونه.\nقال إنكيدو، إذا لم تكن الحرب ارتطاماً بين جسمين سخينين فلا تشفي غليلاً، إنما الحرب كلام بين جسمين إذا ما لم يحس الخصم مني غضبي عند لقانا لم أجد للحرب معنى."
+}

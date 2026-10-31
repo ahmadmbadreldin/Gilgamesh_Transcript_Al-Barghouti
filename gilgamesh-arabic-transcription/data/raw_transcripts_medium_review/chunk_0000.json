@@ -1,0 +1,431 @@
+{
+  "audio": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_00_0001259880_0001296140.wav",
+  "metadata": {
+    "index": 0,
+    "start": 1259.88,
+    "end": 1296.14,
+    "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_00_0001259880_0001296140.wav",
+    "comparison_score": 70.79,
+    "small_transcript": "خفيفا عند عينيها أعدت أين إنكيده؟ حبيبي يبن أارورا وقالت إذرأته إنك ابني اليوم فحم الليلة ابني طوقته زهر كهان المعابد قطرت تمثال دمعا غاسلا خصلات إنكيد وعمادا وهو ساجد يبن أارورا أحبك ليكن خلوة"
+  },
+  "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+  "device": "cpu",
+  "compute_type": "int8",
+  "settings": {
+    "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "beam_size": 5,
+    "vad_filter": false
+  },
+  "detected_language": "ar",
+  "language_probability": 1,
+  "duration": 36.26,
+  "duration_after_vad": 36.26,
+  "elapsed_seconds": 30.974082469940186,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.3,
+      "text": "أن أين أنكيدو؟",
+      "avg_logprob": -0.20510708685689324,
+      "compression_ratio": 1.8628318584070795,
+      "no_speech_prob": 0.901726245880127,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.7,
+          "word": " أن",
+          "probability": 0.34888607263565063
+        },
+        {
+          "start": 0.7,
+          "end": 0.92,
+          "word": " أين",
+          "probability": 0.8564987182617188
+        },
+        {
+          "start": 0.92,
+          "end": 2.3,
+          "word": " أنكيدو؟",
+          "probability": 0.6969121739268302
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.3,
+      "end": 9.48,
+      "text": "وبان الماء في تمثالها، رشحاً خفيفاً عند عينيها، أعادت.",
+      "avg_logprob": -0.20510708685689324,
+      "compression_ratio": 1.8628318584070795,
+      "no_speech_prob": 0.901726245880127,
+      "words": [
+        {
+          "start": 2.3,
+          "end": 2.66,
+          "word": " وبان",
+          "probability": 0.7851601839065552
+        },
+        {
+          "start": 2.66,
+          "end": 3.12,
+          "word": " الماء",
+          "probability": 0.9657879173755646
+        },
+        {
+          "start": 3.12,
+          "end": 3.32,
+          "word": " في",
+          "probability": 0.9695454239845276
+        },
+        {
+          "start": 3.32,
+          "end": 4.66,
+          "word": " تمثالها،",
+          "probability": 0.7556508347392082
+        },
+        {
+          "start": 4.66,
+          "end": 5.2,
+          "word": " رشحاً",
+          "probability": 0.9751260995864868
+        },
+        {
+          "start": 5.2,
+          "end": 6.16,
+          "word": " خفيفاً",
+          "probability": 0.9742572665214538
+        },
+        {
+          "start": 6.16,
+          "end": 6.4,
+          "word": " عند",
+          "probability": 0.9332957863807678
+        },
+        {
+          "start": 6.4,
+          "end": 8.16,
+          "word": " عينيها،",
+          "probability": 0.845594048500061
+        },
+        {
+          "start": 8.16,
+          "end": 9.48,
+          "word": " أعادت.",
+          "probability": 0.9670499265193939
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.82,
+      "end": 11.42,
+      "text": "أين أنكيدو؟",
+      "avg_logprob": -0.20510708685689324,
+      "compression_ratio": 1.8628318584070795,
+      "no_speech_prob": 0.901726245880127,
+      "words": [
+        {
+          "start": 9.82,
+          "end": 10.04,
+          "word": " أين",
+          "probability": 0.9260656833648682
+        },
+        {
+          "start": 10.04,
+          "end": 11.42,
+          "word": " أنكيدو؟",
+          "probability": 0.9767974734306335
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.42,
+      "end": 21.0,
+      "text": "حبيبي، يابن آرورا، وقالت إذ رأته، إنك ابني اليوم فحم الليلة بني، طوّقته زهر كهان المعابد.",
+      "avg_logprob": -0.20510708685689324,
+      "compression_ratio": 1.8628318584070795,
+      "no_speech_prob": 0.901726245880127,
+      "words": [
+        {
+          "start": 11.42,
+          "end": 12.56,
+          "word": " حبيبي،",
+          "probability": 0.7649856954813004
+        },
+        {
+          "start": 12.56,
+          "end": 12.92,
+          "word": " يابن",
+          "probability": 0.6272700826327006
+        },
+        {
+          "start": 12.92,
+          "end": 13.98,
+          "word": " آرورا،",
+          "probability": 0.7303293347358704
+        },
+        {
+          "start": 13.98,
+          "end": 14.54,
+          "word": " وقالت",
+          "probability": 0.9955813139677048
+        },
+        {
+          "start": 14.54,
+          "end": 14.78,
+          "word": " إذ",
+          "probability": 0.8880482017993927
+        },
+        {
+          "start": 14.78,
+          "end": 15.94,
+          "word": " رأته،",
+          "probability": 0.7146084792912006
+        },
+        {
+          "start": 15.94,
+          "end": 16.38,
+          "word": " إنك",
+          "probability": 0.8517146408557892
+        },
+        {
+          "start": 16.38,
+          "end": 16.7,
+          "word": " ابني",
+          "probability": 0.5989021509885788
+        },
+        {
+          "start": 16.7,
+          "end": 17.12,
+          "word": " اليوم",
+          "probability": 0.9763361811637878
+        },
+        {
+          "start": 17.12,
+          "end": 17.52,
+          "word": " فحم",
+          "probability": 0.6414878070354462
+        },
+        {
+          "start": 17.52,
+          "end": 18.12,
+          "word": " الليلة",
+          "probability": 0.8784120678901672
+        },
+        {
+          "start": 18.12,
+          "end": 19.12,
+          "word": " بني،",
+          "probability": 0.6909017662207285
+        },
+        {
+          "start": 19.12,
+          "end": 19.9,
+          "word": " طوّقته",
+          "probability": 0.8126371622085571
+        },
+        {
+          "start": 19.9,
+          "end": 20.26,
+          "word": " زهر",
+          "probability": 0.9489924907684326
+        },
+        {
+          "start": 20.26,
+          "end": 20.72,
+          "word": " كهان",
+          "probability": 0.9181815187136332
+        },
+        {
+          "start": 20.72,
+          "end": 21.24,
+          "word": " المعابد.",
+          "probability": 0.9834619462490082
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 21.98,
+      "end": 27.96,
+      "text": "قطر التمثال دمعاً، غاسلاً خُصلاتِ أنكيدو عِماداً، وهو ساجد.",
+      "avg_logprob": -0.20510708685689324,
+      "compression_ratio": 1.8628318584070795,
+      "no_speech_prob": 0.901726245880127,
+      "words": [
+        {
+          "start": 21.98,
+          "end": 22.36,
+          "word": " قطر",
+          "probability": 0.8646453817685446
+        },
+        {
+          "start": 22.36,
+          "end": 22.96,
+          "word": " التمثال",
+          "probability": 0.9415657222270966
+        },
+        {
+          "start": 22.96,
+          "end": 24.1,
+          "word": " دمعاً،",
+          "probability": 0.9356867174307505
+        },
+        {
+          "start": 24.1,
+          "end": 24.6,
+          "word": " غاسلاً",
+          "probability": 0.9132496863603592
+        },
+        {
+          "start": 24.6,
+          "end": 25.42,
+          "word": " خُصلاتِ",
+          "probability": 0.6353810727596283
+        },
+        {
+          "start": 25.42,
+          "end": 25.92,
+          "word": " أنكيدو",
+          "probability": 0.8272827118635178
+        },
+        {
+          "start": 25.92,
+          "end": 26.9,
+          "word": " عِماداً،",
+          "probability": 0.7906452800546374
+        },
+        {
+          "start": 26.9,
+          "end": 27.14,
+          "word": " وهو",
+          "probability": 0.9681659042835236
+        },
+        {
+          "start": 27.14,
+          "end": 27.96,
+          "word": " ساجد.",
+          "probability": 0.9763307174046835
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 27.96,
+      "end": 33.14,
+      "text": "يَبْنَ أَرُورَ أُحِبُكُ لِيَكُنْ خِلْوًا مِنَ الْعَثْرَاتِ دَرْبُكُ",
+      "avg_logprob": -0.150520845852067,
+      "compression_ratio": 2.1052631578947367,
+      "no_speech_prob": 0.6813317537307739,
+      "words": [
+        {
+          "start": 27.96,
+          "end": 28.76,
+          "word": " يَبْنَ",
+          "probability": 0.8198563680052757
+        },
+        {
+          "start": 28.76,
+          "end": 29.32,
+          "word": " أَرُورَ",
+          "probability": 0.8492645174264908
+        },
+        {
+          "start": 29.32,
+          "end": 30.4,
+          "word": " أُحِبُكُ",
+          "probability": 0.88450026512146
+        },
+        {
+          "start": 30.4,
+          "end": 31.02,
+          "word": " لِيَكُنْ",
+          "probability": 0.9324666038155556
+        },
+        {
+          "start": 31.02,
+          "end": 31.42,
+          "word": " خِلْوًا",
+          "probability": 0.9103335056986127
+        },
+        {
+          "start": 31.42,
+          "end": 31.62,
+          "word": " مِنَ",
+          "probability": 0.9711926728487015
+        },
+        {
+          "start": 31.62,
+          "end": 32.26,
+          "word": " الْعَثْرَاتِ",
+          "probability": 0.8828249752521515
+        },
+        {
+          "start": 32.26,
+          "end": 33.14,
+          "word": " دَرْبُكُ",
+          "probability": 0.9779209792613983
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 33.14,
+      "end": 36.24,
+      "text": "يَبْنَ أَرُورَ أُحِبُكُ وَلِيَكُنْ خِلْوًا مِنَ الْأَضْغَةِ",
+      "avg_logprob": -0.150520845852067,
+      "compression_ratio": 2.1052631578947367,
+      "no_speech_prob": 0.6813317537307739,
+      "words": [
+        {
+          "start": 33.14,
+          "end": 33.66,
+          "word": " يَبْنَ",
+          "probability": 0.9489602148532867
+        },
+        {
+          "start": 33.66,
+          "end": 34.16,
+          "word": " أَرُورَ",
+          "probability": 0.9859167734781901
+        },
+        {
+          "start": 34.16,
+          "end": 34.8,
+          "word": " أُحِبُكُ",
+          "probability": 0.9905846789479256
+        },
+        {
+          "start": 34.8,
+          "end": 35.36,
+          "word": " وَلِيَكُنْ",
+          "probability": 0.9883726954460144
+        },
+        {
+          "start": 35.36,
+          "end": 35.76,
+          "word": " خِلْوًا",
+          "probability": 0.9913605792181832
+        },
+        {
+          "start": 35.76,
+          "end": 35.98,
+          "word": " مِنَ",
+          "probability": 0.9953595250844955
+        },
+        {
+          "start": 35.98,
+          "end": 36.24,
+          "word": " الْأَضْغَةِ",
+          "probability": 0.8414800524711609
+        }
+      ]
+    }
+  ],
+  "text": "أن أين أنكيدو؟\nوبان الماء في تمثالها، رشحاً خفيفاً عند عينيها، أعادت.\nأين أنكيدو؟\nحبيبي، يابن آرورا، وقالت إذ رأته، إنك ابني اليوم فحم الليلة بني، طوّقته زهر كهان المعابد.\nقطر التمثال دمعاً، غاسلاً خُصلاتِ أنكيدو عِماداً، وهو ساجد.\nيَبْنَ أَرُورَ أُحِبُكُ لِيَكُنْ خِلْوًا مِنَ الْعَثْرَاتِ دَرْبُكُ\nيَبْنَ أَرُورَ أُحِبُكُ وَلِيَكُنْ خِلْوًا مِنَ الْأَضْغَةِ"
+}

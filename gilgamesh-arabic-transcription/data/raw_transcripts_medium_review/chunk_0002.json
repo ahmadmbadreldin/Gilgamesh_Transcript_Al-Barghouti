@@ -1,0 +1,113 @@
+{
+  "audio": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_02_0002642220_0002652820.wav",
+  "metadata": {
+    "index": 2,
+    "start": 2642.22,
+    "end": 2652.82,
+    "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_02_0002642220_0002652820.wav",
+    "comparison_score": 55.0,
+    "small_transcript": "تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم البرغوثي، تميم"
+  },
+  "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+  "device": "cpu",
+  "compute_type": "int8",
+  "settings": {
+    "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "beam_size": 5,
+    "vad_filter": false
+  },
+  "detected_language": "ar",
+  "language_probability": 1,
+  "duration": 10.6,
+  "duration_after_vad": 10.6,
+  "elapsed_seconds": 8.645522832870483,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.8,
+      "text": "قال لها آنو سمعنا، لم يقل إلا صوابا، أنت يا عشتار صعبة.",
+      "avg_logprob": -0.24297790394888985,
+      "compression_ratio": 1.180722891566265,
+      "no_speech_prob": 0.22508499026298523,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.54,
+          "word": " قال",
+          "probability": 0.8635317087173462
+        },
+        {
+          "start": 0.54,
+          "end": 1.82,
+          "word": " لها",
+          "probability": 0.7120877504348755
+        },
+        {
+          "start": 1.82,
+          "end": 2.24,
+          "word": " آنو",
+          "probability": 0.766707181930542
+        },
+        {
+          "start": 2.24,
+          "end": 3.5,
+          "word": " سمعنا،",
+          "probability": 0.7127354711294174
+        },
+        {
+          "start": 3.5,
+          "end": 3.62,
+          "word": " لم",
+          "probability": 0.9692679643630981
+        },
+        {
+          "start": 3.62,
+          "end": 4.02,
+          "word": " يقل",
+          "probability": 0.9169732133547465
+        },
+        {
+          "start": 4.02,
+          "end": 4.26,
+          "word": " إلا",
+          "probability": 0.9314309656620026
+        },
+        {
+          "start": 4.26,
+          "end": 5.54,
+          "word": " صوابا،",
+          "probability": 0.7986011445522309
+        },
+        {
+          "start": 5.54,
+          "end": 5.8,
+          "word": " أنت",
+          "probability": 0.7284789383411407
+        },
+        {
+          "start": 5.8,
+          "end": 5.96,
+          "word": " يا",
+          "probability": 0.9469393491744995
+        },
+        {
+          "start": 5.96,
+          "end": 6.66,
+          "word": " عشتار",
+          "probability": 0.9652242362499237
+        },
+        {
+          "start": 6.66,
+          "end": 7.8,
+          "word": " صعبة.",
+          "probability": 0.8139868974685669
+        }
+      ]
+    }
+  ],
+  "text": "قال لها آنو سمعنا، لم يقل إلا صوابا، أنت يا عشتار صعبة."
+}

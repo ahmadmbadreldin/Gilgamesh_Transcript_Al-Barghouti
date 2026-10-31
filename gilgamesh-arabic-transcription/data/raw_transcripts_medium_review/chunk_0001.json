@@ -1,0 +1,498 @@
+{
+  "audio": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_01_0001909120_0001946180.wav",
+  "metadata": {
+    "index": 1,
+    "start": 1909.12,
+    "end": 1946.18,
+    "path": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\data\\chunks\\medium_review\\review_01_0001909120_0001946180.wav",
+    "comparison_score": 66.67,
+    "small_transcript": "هالة واحدة، ضربال هالة بالفأسين حتى فلقت، قتل بنتاً لحمبابة تحميه، فناد أنتما قجئتما في ثار بنت، هكما أدركتما ثاركما، فلتتركاني، لم يجيباه، فنادى ما لثأر جئتماني إنما العدوان محضن تبغيان الأرز نهبا أو تريدان"
+  },
+  "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+  "device": "cpu",
+  "compute_type": "int8",
+  "settings": {
+    "model": "D:\\Personal_projects\\Gilgamesh_Transcript_Al-Barghouti\\gilgamesh-arabic-transcription\\models\\faster-whisper-medium",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 8,
+    "beam_size": 5,
+    "vad_filter": false
+  },
+  "detected_language": "ar",
+  "language_probability": 1,
+  "duration": 37.06,
+  "duration_after_vad": 37.06,
+  "elapsed_seconds": 32.40166449546814,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 15.06,
+      "text": "عندما أعجله بالحرب جلجامش، ما كان عليه قطء إلا هالة واحدة، ضربال هالة بالفأسين حتى فلقت، أي قتلاها، قتلا بنتا لحمبابة تحميه.",
+      "avg_logprob": -0.20940128713846207,
+      "compression_ratio": 1.547945205479452,
+      "no_speech_prob": 0.5738833546638489,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 1.14,
+          "word": " عندما",
+          "probability": 0.8170747458934784
+        },
+        {
+          "start": 1.14,
+          "end": 1.8,
+          "word": " أعجله",
+          "probability": 0.8520258516073227
+        },
+        {
+          "start": 1.8,
+          "end": 2.44,
+          "word": " بالحرب",
+          "probability": 0.8176428476969401
+        },
+        {
+          "start": 2.44,
+          "end": 3.36,
+          "word": " جلجامش،",
+          "probability": 0.5310847976555427
+        },
+        {
+          "start": 3.36,
+          "end": 3.44,
+          "word": " ما",
+          "probability": 0.9749396443367004
+        },
+        {
+          "start": 3.44,
+          "end": 3.74,
+          "word": " كان",
+          "probability": 0.9870281219482422
+        },
+        {
+          "start": 3.74,
+          "end": 4.2,
+          "word": " عليه",
+          "probability": 0.9416127800941467
+        },
+        {
+          "start": 4.2,
+          "end": 4.86,
+          "word": " قطء",
+          "probability": 0.7418533861637115
+        },
+        {
+          "start": 4.86,
+          "end": 5.5,
+          "word": " إلا",
+          "probability": 0.7862278819084167
+        },
+        {
+          "start": 5.5,
+          "end": 6.12,
+          "word": " هالة",
+          "probability": 0.9326499501864115
+        },
+        {
+          "start": 6.12,
+          "end": 7.66,
+          "word": " واحدة،",
+          "probability": 0.7511807419359684
+        },
+        {
+          "start": 7.66,
+          "end": 8.28,
+          "word": " ضربال",
+          "probability": 0.9020352363586426
+        },
+        {
+          "start": 8.28,
+          "end": 8.78,
+          "word": " هالة",
+          "probability": 0.9936400651931763
+        },
+        {
+          "start": 8.78,
+          "end": 9.48,
+          "word": " بالفأسين",
+          "probability": 0.9739662885665894
+        },
+        {
+          "start": 9.48,
+          "end": 9.82,
+          "word": " حتى",
+          "probability": 0.9559720158576965
+        },
+        {
+          "start": 9.82,
+          "end": 10.88,
+          "word": " فلقت،",
+          "probability": 0.7517764419317245
+        },
+        {
+          "start": 10.88,
+          "end": 11.04,
+          "word": " أي",
+          "probability": 0.8457080721855164
+        },
+        {
+          "start": 11.04,
+          "end": 12.1,
+          "word": " قتلاها،",
+          "probability": 0.7850523114204406
+        },
+        {
+          "start": 12.1,
+          "end": 12.62,
+          "word": " قتلا",
+          "probability": 0.816696693499883
+        },
+        {
+          "start": 12.62,
+          "end": 13.46,
+          "word": " بنتا",
+          "probability": 0.8519614140192667
+        },
+        {
+          "start": 13.46,
+          "end": 14.22,
+          "word": " لحمبابة",
+          "probability": 0.7532868944108486
+        },
+        {
+          "start": 14.22,
+          "end": 15.06,
+          "word": " تحميه.",
+          "probability": 0.993096336722374
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 15.06,
+      "end": 16.16,
+      "text": "فنادى",
+      "avg_logprob": -0.1887704146669266,
+      "compression_ratio": 1.898936170212766,
+      "no_speech_prob": 0.14760304987430573,
+      "words": [
+        {
+          "start": 15.06,
+          "end": 16.16,
+          "word": " فنادى",
+          "probability": 0.8675979524850845
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 16.16,
+      "end": 19.18,
+      "text": "أنتما قد جئتما في ثأر بنتٍ",
+      "avg_logprob": -0.1887704146669266,
+      "compression_ratio": 1.898936170212766,
+      "no_speech_prob": 0.14760304987430573,
+      "words": [
+        {
+          "start": 16.16,
+          "end": 16.82,
+          "word": " أنتما",
+          "probability": 0.6316652397314707
+        },
+        {
+          "start": 16.82,
+          "end": 17.16,
+          "word": " قد",
+          "probability": 0.9850251078605652
+        },
+        {
+          "start": 17.16,
+          "end": 17.62,
+          "word": " جئتما",
+          "probability": 0.8420553952455521
+        },
+        {
+          "start": 17.62,
+          "end": 17.9,
+          "word": " في",
+          "probability": 0.9874913692474365
+        },
+        {
+          "start": 17.9,
+          "end": 18.22,
+          "word": " ثأر",
+          "probability": 0.931520938873291
+        },
+        {
+          "start": 18.22,
+          "end": 19.18,
+          "word": " بنتٍ",
+          "probability": 0.7533216575781504
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 19.18,
+      "end": 22.42,
+      "text": "هاكما أدركتما ثأركما فلتتركاني",
+      "avg_logprob": -0.1887704146669266,
+      "compression_ratio": 1.898936170212766,
+      "no_speech_prob": 0.14760304987430573,
+      "words": [
+        {
+          "start": 19.18,
+          "end": 19.6,
+          "word": " هاكما",
+          "probability": 0.7440515235066414
+        },
+        {
+          "start": 19.6,
+          "end": 20.18,
+          "word": " أدركتما",
+          "probability": 0.9077389121055603
+        },
+        {
+          "start": 20.18,
+          "end": 20.82,
+          "word": " ثأركما",
+          "probability": 0.7936745285987854
+        },
+        {
+          "start": 20.82,
+          "end": 22.42,
+          "word": " فلتتركاني",
+          "probability": 0.9167752606528146
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 22.42,
+      "end": 23.38,
+      "text": "لم يجيباه",
+      "avg_logprob": -0.1887704146669266,
+      "compression_ratio": 1.898936170212766,
+      "no_speech_prob": 0.14760304987430573,
+      "words": [
+        {
+          "start": 22.42,
+          "end": 22.7,
+          "word": " لم",
+          "probability": 0.8897474408149719
+        },
+        {
+          "start": 22.7,
+          "end": 23.38,
+          "word": " يجيباه",
+          "probability": 0.96488436460495
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 24.060000000000002,
+      "end": 24.9,
+      "text": "فنادى",
+      "avg_logprob": -0.1887704146669266,
+      "compression_ratio": 1.898936170212766,
+      "no_speech_prob": 0.14760304987430573,
+      "words": [
+        {
+          "start": 24.060000000000002,
+          "end": 24.9,
+          "word": " فنادى",
+          "probability": 0.9577351361513138
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 24.9,
+      "end": 27.24,
+      "text": "مال ثأرٍ جئتماني",
+      "avg_logprob": -0.1887704146669266,
+      "compression_ratio": 1.898936170212766,
+      "no_speech_prob": 0.14760304987430573,
+      "words": [
+        {
+          "start": 24.9,
+          "end": 25.28,
+          "word": " مال",
+          "probability": 0.8586515784263611
+        },
+        {
+          "start": 25.28,
+          "end": 26.04,
+          "word": " ثأرٍ",
+          "probability": 0.856742188334465
+        },
+        {
+          "start": 26.04,
+          "end": 27.24,
+          "word": " جئتماني",
+          "probability": 0.882180243730545
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 27.24,
+      "end": 29.16,
+      "text": "إنما العدوان محضن",
+      "avg_logprob": -0.1887704146669266,
+      "compression_ratio": 1.898936170212766,
+      "no_speech_prob": 0.14760304987430573,
+      "words": [
+        {
+          "start": 27.24,
+          "end": 27.74,
+          "word": " إنما",
+          "probability": 0.8483709990978241
+        },
+        {
+          "start": 27.74,
+          "end": 28.34,
+          "word": " العدوان",
+          "probability": 0.9840102195739746
+        },
+        {
+          "start": 28.34,
+          "end": 29.16,
+          "word": " محضن",
+          "probability": 0.6638908572494984
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 29.16,
+      "end": 31.34,
+      "text": "تبغيان الأرض نهباً",
+      "avg_logprob": -0.1887704146669266,
+      "compression_ratio": 1.898936170212766,
+      "no_speech_prob": 0.14760304987430573,
+      "words": [
+        {
+          "start": 29.16,
+          "end": 29.92,
+          "word": " تبغيان",
+          "probability": 0.9897040247917175
+        },
+        {
+          "start": 29.92,
+          "end": 30.32,
+          "word": " الأرض",
+          "probability": 0.6988779306411743
+        },
+        {
+          "start": 30.32,
+          "end": 31.34,
+          "word": " نهباً",
+          "probability": 0.8773294687271118
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 31.34,
+      "end": 34.06,
+      "text": "أو تريداني خلوداً في أصاطير المثاني",
+      "avg_logprob": -0.1887704146669266,
+      "compression_ratio": 1.898936170212766,
+      "no_speech_prob": 0.14760304987430573,
+      "words": [
+        {
+          "start": 31.34,
+          "end": 31.48,
+          "word": " أو",
+          "probability": 0.9527896642684937
+        },
+        {
+          "start": 31.48,
+          "end": 32.26,
+          "word": " تريداني",
+          "probability": 0.9201406359672546
+        },
+        {
+          "start": 32.26,
+          "end": 32.94,
+          "word": " خلوداً",
+          "probability": 0.9583121538162231
+        },
+        {
+          "start": 32.94,
+          "end": 33.04,
+          "word": " في",
+          "probability": 0.9927445650100708
+        },
+        {
+          "start": 33.04,
+          "end": 33.7,
+          "word": " أصاطير",
+          "probability": 0.947952002286911
+        },
+        {
+          "start": 33.7,
+          "end": 34.32,
+          "word": " المثاني",
+          "probability": 0.9700798243284225
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 34.68,
+      "end": 36.46,
+      "text": "يا عدو ويتركاني",
+      "avg_logprob": -0.1887704146669266,
+      "compression_ratio": 1.898936170212766,
+      "no_speech_prob": 0.14760304987430573,
+      "words": [
+        {
+          "start": 34.68,
+          "end": 34.9,
+          "word": " يا",
+          "probability": 0.9082981944084167
+        },
+        {
+          "start": 34.9,
+          "end": 35.24,
+          "word": " عدو",
+          "probability": 0.9018944104512533
+        },
+        {
+          "start": 35.24,
+          "end": 36.46,
+          "word": " ويتركاني",
+          "probability": 0.756683760881424
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 36.46,
+      "end": 37.04,
+      "text": "أنا مأمور",
+      "avg_logprob": -0.1887704146669266,
+      "compression_ratio": 1.898936170212766,
+      "no_speech_prob": 0.14760304987430573,
+      "words": [
+        {
+          "start": 36.46,
+          "end": 36.72,
+          "word": " أنا",
+          "probability": 0.8314560055732727
+        },
+        {
+          "start": 36.72,
+          "end": 37.04,
+          "word": " مأمور",
+          "probability": 0.8609054982662201
+        }
+      ]
+    }
+  ],
+  "text": "عندما أعجله بالحرب جلجامش، ما كان عليه قطء إلا هالة واحدة، ضربال هالة بالفأسين حتى فلقت، أي قتلاها، قتلا بنتا لحمبابة تحميه.\nفنادى\nأنتما قد جئتما في ثأر بنتٍ\nهاكما أدركتما ثأركما فلتتركاني\nلم يجيباه\nفنادى\nمال ثأرٍ جئتماني\nإنما العدوان محضن\nتبغيان الأرض نهباً\nأو تريداني خلوداً في أصاطير المثاني\nيا عدو ويتركاني\nأنا مأمور"
+}
